@@ -6,9 +6,9 @@ When selecting a hosting company, you should check if the following requirements
 Environment
 -----------------
 
- - Web Server (Apache, Nginx, IIS) 
- - PHP 5.6.4 or higher 
- - MySQLi 5.1 or higher
+* PHP 5.6.4 or higher
+* Database (eg: [MySQL, PostgreSQL, SQLite, SQL Server](https://laravel.com/docs/5.4/database))
+* Web Server (eg: Apache, Nginx, IIS)
 
 Libraries
 ---------------
