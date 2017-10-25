@@ -17,14 +17,11 @@ After enabling, all you have to do is to refresh any page in your Akaunting and 
 
 You can also send messages to the debug bar:
 
-`
+```
 Debugbar::info($object);
-
 Debugbar::error('Error!');
-
 Debugbar::warning('Watch out…');
-
 Debugbar::addMessage('Another message', 'mylabel');
-`
+```
 
 ![debug show](_images/debug_bar.png)
