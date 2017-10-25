@@ -27,3 +27,5 @@
 	* [Apps](user-manual/apps)
 	* [Companies](user-manual/companies)
 	* [Users](user-manual/auth/users)
+* Developer Manual
+    * [Debug](developer-manual/debug)
