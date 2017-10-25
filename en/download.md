@@ -1,7 +1,7 @@
 Download
 ========
 
-Download the software and install on your own host/server and is totally free, no restrictions.
+Download the software and install on your own host/server for free, no restrictions.
 
 ### Stable
 
