@@ -29,3 +29,4 @@
 	* [Users](user-manual/auth/users)
 * Developer Manual
     * [Debug](developer-manual/debug)
+    * [Menu](developer-manual/menu)
