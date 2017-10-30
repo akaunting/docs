@@ -29,4 +29,5 @@
 	* [Users](user-manual/auth/users)
 * Developer Manual
     * [Debug](developer-manual/debug)
+    * [Modules](developer-manual/modules)
     * [Menu](developer-manual/menu)

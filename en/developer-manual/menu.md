@@ -1,5 +1,5 @@
 Menu
-=====
+====
 
 The left sidebar of Akaunting contains the company switcher, search box, and menu. Akaunting uses the [nWidart](https://github.com/nwidart/laravel-menus) menu package as builder.
 
