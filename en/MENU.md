@@ -32,3 +32,4 @@
     * [Modules](developer-manual/modules)
     * [Menu](developer-manual/menu)
     * [Permissions](developer-manual/permissions)
+    * [RESTful API](developer-manual/restful-api)
