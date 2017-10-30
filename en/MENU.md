@@ -31,3 +31,4 @@
     * [Debug](developer-manual/debug)
     * [Modules](developer-manual/modules)
     * [Menu](developer-manual/menu)
+    * [Permissions](developer-manual/permissions)
