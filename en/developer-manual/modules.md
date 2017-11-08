@@ -52,6 +52,15 @@ We preferred nWidart's module package as it has a lot of Artisan commands built-
 php artisan module:make Blog
 ```
 
+This will create all files and folders shown in the above example. Now lets install the module using the following command:
+
+```
+php artisan module:install blog 1
+```
+
+`blog` is the **alias** of the module and `1` is the **company id** that you want to install the module. [Here](https://akaunting.com/docs/user-manual/companies) you can find more about companies in Akaunting.
+
+
 [Here](https://nwidart.com/laravel-modules/v1/advanced-tools/artisan-commands) you can find the full list of commands.
 
 ### module.json file
