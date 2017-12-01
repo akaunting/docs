@@ -1,8 +1,12 @@
-Welcome to Akaunting Documentation
-================================
+Introduction
+============
 
-Akaunting is an online accounting software built with modern technologies such as Laravel, Bootstrap, jQuery, RESTful API etc. From invoicing to expense tracking to accounting, Akaunting has all the tools you need to manage your money. Akaunting provides a professional and reliable substructure  from which to manage accounting. This foundation appeals to a wide variety of users; ranging from seasoned web developers looking for a user-friendly interface to use, to company owners just launching their business online for the first time. Akaunting has an extensive amount of features that gives you a strong hold over the customization of your software. With Akaunting's tools, you can help your software live up to its fullest potential.
+This guide serves as a resource to users and developers needing direction in Akaunting interface or code. Everyone is welcome to help make this information better and improve as needed.
 
-This guide serves as a resource to users needing direction in navigating the Akaunting interface. We detail the aspects involved with setting up your software: complete with keeping it up to date to the latest version, meeting the technical requirements, accessing the admin panel, and uninstallation. The User Guide covers the essentials tools used for managing your software front through the administration side. We will walk you through the important sections of the administration interface: **Items,  Incomes, Expenses, Banking, Reports and Settings**. In this area we will cover which part of your software front each section is responsible for, and how you can modify them in the administration side to meet your software’s needs.  Important accounting procedures, such as adding products to your store, keeping track of bills, managing customers and vendors, changing layouts, adding revenues and payments, and more is explained in this guide.
+### Users
 
-When you are finished reading this guide, you will be comfortable with using the Akaunting interface to set up your software and maintain it over time.
+You may start with the [dashboard](https://akaunting.com/docs/user-manual/dashboard) page. Then see how [companies](https://akaunting.com/docs/user-manual/companies) work and check [users](https://akaunting.com/docs/user-manual/users) page for permissions.
+
+### Developers
+
+The [modules](https://akaunting.com/docs/developer-manual/modules) page is the essential of apps. Then you can check how to show your app in navigation [menu](https://akaunting.com/docs/developer-manual/menu). [RESTfull API](https://akaunting.com/docs/developer-manual/restful-api) is one of the most important parts of Akaunting.
