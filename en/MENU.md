@@ -4,6 +4,7 @@
 * [Update](update)
 * User Manual
 	* [Dashboard](user-manual/dashboard)
+	* [Toolbar](user-manual/toolbar)
 	* Incomes
 		* [Invoices](user-manual/incomes/invoices)
 		* [Revenues](user-manual/incomes/revenues)
@@ -27,6 +28,8 @@
 	* [Apps](user-manual/apps)
 	* [Companies](user-manual/companies)
 	* [Users](user-manual/auth/users)
+* FAQ
+    * [Accrual vs Cash](faq/accrual-vs-cash)
 * Developer Manual
     * [Debug](developer-manual/debug)
     * [Modules](developer-manual/modules)

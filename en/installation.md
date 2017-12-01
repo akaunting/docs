@@ -1,14 +1,14 @@
 Installation
 ============
 
-This guide will demonstrate you how to successfully install Akaunting in your local or remote server just in a couple of minutes.
+This guide will show you how to install Akaunting in your local or remote server just in a couple of minutes.
 
 Steps
 -----
 
-1. [Download](https://akaunting.com/download) the most recent Akaunting package.
-2. Upload the downloaded package onto your server.
-3. Unpack the Akaunting archive to the web-root directory of your server.
+1. [Download](https://akaunting.com/download) the Akaunting package.
+2. Unzip the downloaded package.
+3. Upload all the files to your server.
 
 **Launch the Installer**
 
