@@ -1,7 +1,7 @@
 Update
 =======
 
-Akaunting is periodically updated with new versions of itself. Each new version released brings the advantage of bug fixes and new features.
+Akaunting is periodically updated with new versions. Each new version released brings the advantage of bug fixes and new features.
 
 Thanks to the One-Click Update feature of Akaunting, it takes just a couple of minutes to get the latest version. All you have to do is to click the Update notification button at the right top. After that you will be redirected to the "Updates" page.
 
