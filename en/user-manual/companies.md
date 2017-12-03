@@ -7,5 +7,5 @@ You can manage the money of unlimited companies from one Akaunting installation 
 
 You can switch between companies and manage them from the left top select box.
 
-![Transfer](_images/companies.png)
+![companies](_images/companies.png)
 
