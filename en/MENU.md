@@ -30,6 +30,8 @@
 	* [Users](user-manual/auth/users)
 * FAQ
     * [Accrual vs Cash](faq/accrual-vs-cash)
+    * [Invoices vs Revenues](faq/invoices-vs-revenues)
+    * [Bills vs Payments](faq/bills-vs-payments)
 * Developer Manual
     * [Debug](developer-manual/debug)
     * [Modules](developer-manual/modules)
