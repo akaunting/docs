@@ -1,28 +1,29 @@
 Customers
-========
+=========
 
-The Customers section is located under **Incomes > Customers**. On this page, you can see every customer ever create is listed in detail.
+Customers page is located under **Incomes > Customers** menu. On this page you can see all customers, search for any, create a new one, edit the current ones and delete them.
 
-The following details are displayed for each return on the list:
+The following fields are displayed:
 
-- **Name**: the customer's name.
-- **Email**: the customer's email address.
-- **Phone**: the customer's phone number.
-- **Status**: Enable or disable the customer in to use.
+- **Name**: Customer's full name.
+- **Email**: Customer's email address.
+- **Phone**: Customer's phone number.
+- **Status**: Status of the customer.
+- **Actions**: You can use this button to edit, duplicate, and delete the customer.
 
-![Customer](_images/customers_list.png)
+![customers list](_images/customers_list.png)
 
-Add new customer
-------------------------------
+## New Customer
 
 The following details are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
 
-- **Name**: the customer's name.
-- **Email**: the customer's email address.
-- **Phone**: the customer's phone number.
-- **Website**: the customer's website.
-- **Address**: the customer's address
-- **Currency**: the currency used by the customer
-- **Enabled**: Selecting "Yes" makes the vendor publicly available in the software. Selecting "No" will hide the customer from related fields, but will still be available for editing purposes in the administration.
+- **Name**: Customer's full name.
+- **Email**: Customer's email address.
+- **Phone**: Customer's phone number.
+- **Website**: Customer's website.
+- **Address**: Customer's address
+- **Currency**: Default currency to be used for  the customer
+- **Enabled**: Status of the customer.
+- **Allow Login**: Selecting this option will ask you for password. You customer may access the Client Portal using their email and password and so on see/pay the invoices assigned to them.
 
-![Customer](_images/customers_edit.png)
+![customers form](_images/customers_form.png)
