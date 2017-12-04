@@ -1,28 +1,28 @@
 Vendors
-========
+=======
 
-The Vendor section is located under **Expenses > Vendors**. On this page, you can see every vendor ever create is listed in detail.
+Vendors section is located under **Expenses > Vendors**. On this page you can see all vendors, search for any, create a new one, edit the current ones and delete them.
 
-The following details are displayed for each return on the list:
+The following details are displayed:
 
-- **Name**: the vendor's name.
-- **Email**: the vendor's email adress.
-- **Phone**: the vendor's phone number.
-- **Status**: Enable or disable the vendor in the software
+- **Name**: Vendor's name.
+- **Email**: Vendor's email adress.
+- **Phone**: Vendor's phone number.
+- **Status**: Status of the vendor.
+- **Actions**: You can use this button to edit, duplicate, and delete the vendor.
 
-![Vendor](_images/vendors_list.png)
+![vendors list](_images/vendors_list.png)
 
-Add new vendor
-------------------------------
+## New Vendor
 
-The following details are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
+The following fields are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
 
-- **Name**: the vendor's name.
-- **Email**: the vendor's email adress.
-- **Phone**: the vendor's phone number.
-- **Website**: the vendor's website.
-- **Address**: the vendor's address
-- **Currency**: the currency used by the vendor
-- **Enabled**: Selecting "Yes" makes the vendor publicly available in the software. Selecting "No" will hide the vendor from expenses pages, but will still be available for editing purposes in the administration.
+- **Name**: Vendor's full name.
+- **Email**: Vendor's email adress.
+- **Phone**: Vendor's phone number.
+- **Website**: Vendor's website.
+- **Address**: Vendor's address
+- **Currency**: Default currency to be used for the vendor
+- **Enabled**: Status of the vendor.
 
-![Vendor](_images/vendors_edit.png)
+![vendor form](_images/vendors_form.png)
