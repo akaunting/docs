@@ -6,7 +6,7 @@
 	* [Dashboard](user-manual/dashboard)
 	* [Toolbar](user-manual/toolbar)
 	* [Companies](user-manual/companies)
-	* [Users](user-manual/auth/users)
+	* [Items](user-manual/items)
 	* Incomes
 		* [Invoices](user-manual/incomes/invoices)
 		* [Revenues](user-manual/incomes/revenues)
@@ -28,6 +28,7 @@
 		* [Currencies](user-manual/settings/currencies)
 		* [Tax Rates](user-manual/settings/taxes)
 	* [Apps](user-manual/apps)
+	* [Users](user-manual/auth/users)
 * FAQ
     * [Accrual vs Cash](faq/accrual-vs-cash)
     * [Invoices vs Revenues](faq/invoices-vs-revenues)
