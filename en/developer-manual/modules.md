@@ -73,7 +73,7 @@ The `module.json` file contains the main information such as name, version, prov
     "alias": "blog",
     "description": "This is my new module.",
     "version": "1.0.0",
-    "category": "payment-gateways",
+    "category": "payment-gateway",
     "keywords": [],
     "active": 1,
     "order": 0,
