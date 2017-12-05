@@ -1,31 +1,33 @@
 Accounts
 ========
 
-The Accounts section is located under **Banking > Accounts**. On this page, every account ever made is listed in detail.
+Accounts is where we keep our money at the end. They may be in cash or a bank account.
 
-The following details are displayed for each return on the list:
+The Accounts section is located under **Banking > Accounts**. On this page you can see all accounts, search for any, create a new one, edit the current ones and delete them.
 
-- **Name**: the account name
-- **Number**: the account number
-- **Current Balance**: the account's current balance
-- **Status**: the account to pay.
+The following fields are displayed:
 
-![Account](_images/accounts_list.png)
+- **Name**: Account's name
+- **Number**: Account's number
+- **Current Balance**: Account's current balance. This is the result of opening balance + incomes - expenses assigned to that account
+- **Status**: Status of the account.
+- **Actions**: You can use this button to edit, and delete the account.
 
-Add new account
-------------------------------
+![accounts list](_images/accounts_list.png)
 
-The following details are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
+## New Account
 
-- **Name**: the account name
-- **Number**: the account number
-- **Currency**: The currency to be used in the account.
-- **Opening Balance**: the account opening balance.
-- **Bank Name**: the bank name
-- **Bank Phone**: the bank phone number
-- **Bank Address**: the bank address
-- **Default Account**: Selecting "Yes" makes this account is selected for all account field.
-- **Enabled**: Selecting "Yes" makes the account publicly available in the software. Selecting "No" will hide the account from accounts field, but will still be available for editing purposes in the administration.
+The following fields are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
 
-![Account](_images/accounts_edit.png)
+- **Name**: Account's name
+- **Number**: Account's number
+- **Currency**: The currency of the account. Account will accept incomes and expenses only in that currency.
+- **Opening Balance**: The opening balance.
+- **Bank Name**: If applicable, the bank name.
+- **Bank Phone**: If applicable, the bank phone number.
+- **Bank Address**: If applicable, the bank address.
+- **Default Account**: This option will populate the account as selected in accounts list when creating incomes/expenses.
+- **Enabled**: Status of the account.
+
+![accounts form](_images/accounts_form.png)
 

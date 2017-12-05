@@ -21,8 +21,8 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Email**: Customer's email address.
 - **Phone**: Customer's phone number.
 - **Website**: Customer's website.
-- **Address**: Customer's address
-- **Currency**: Default currency to be used for the customer
+- **Address**: Customer's address.
+- **Currency**: Default currency to be used for the customer.
 - **Enabled**: Status of the customer.
 - **Allow Login**: Selecting this option will ask you for password. You customer may access the Client Portal using their email and password and so on see/pay the invoices assigned to them.
 
