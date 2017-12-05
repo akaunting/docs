@@ -1,10 +1,8 @@
-Incomes vs Expenses
-==============
+Income vs Expense
+=================
 
-Navigate **Reports -> Income vs Expense**
-
-On this page, you can compare your invoices and expenses and you can see your profit by monthly.
+Income vs Expense page is located under **Reports > Income vs Expense** menu. This report give you as a business owner a good idea of where your business profit stands, month by month and categorised.
 
 ![income expense summary](_images/income-vs-expense.png)
 
-The table also appears in detail according to all incomes and expenses by categories.The profit and loss situation of your company is easy to see with graphic help.
+You may select the fiscal year and filter the paid, upcoming and all profit. Upcoming balance tells you the amount of money that have not been paid, yet.

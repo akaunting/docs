@@ -27,7 +27,7 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Order Number**: A number assigned to an order for that invoice.
 - **Items**: The list of all items that can be assigned to that invoice. You can add multiple items.
 	- **Actions**: There are 2 (two) actions; Add and Delete.
-	- **Name**: The name of the item. It is an autocomplete field, so just type the name of item and it will bring the list of all items according the typing. It can be a custom item or any already added into *Items* page.
+	- **Name**: The name of item. It will populate records from *Items* page after you start typing their name. It can also be a custom item.
 	- **Quantity**: Default is 1.
 	- **Price**: The sale price of item. It will bring it automatically but you have the opportunity to change it if you want.
 	- **Tax**: The list of applicable Tax Rates. You can add new taxes or change the rate of tax from "*Settings > Tax Rates* page".

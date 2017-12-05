@@ -13,4 +13,4 @@ Bill is a document received from your vendor that indicates the items (product o
 
 ## Payments
 
-Payment is a non-billable and paid expense. There are no items within the payments. Do not confuse this with payments added to a bill/invoice.
+Payment is a non-billable and paid expense. For example, food that you eat while on business trips. There are no items within the payments. Do not confuse this with payments added to a bill/invoice.
