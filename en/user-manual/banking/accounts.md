@@ -3,7 +3,7 @@ Accounts
 
 Accounts is where we keep our money at the end. They may be in cash or a bank account.
 
-Accounts page is located under **Banking > Accounts**. On this page you can see all accounts, search for any, create a new one, edit the current ones and delete them.
+Accounts page is located under **Banking > Accounts** menu. On this page you can see all accounts, search for any, create a new one, edit the current ones and delete them.
 
 The following fields are displayed:
 

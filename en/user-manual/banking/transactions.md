@@ -1,16 +1,15 @@
 Transactions
-========
+============
 
-On this page, every transaction ever made is listed in detail.You can reach this page under **Banking > Transactions**. 
+Transactions page is located under **Banking > Transactions** menu. This page shows up all the actions made for each account. You can easily see the transaction date, type, category, amount etc and sort the records as you wish.
 
-The following details are displayed for each return on the list:
+The following fields are displayed:
 
-- **Date**: the transfer date
-- **Account Name**: the transfer from account	
-- **Type**: the type of the transaction
-- **Category**: the category of the transaction.
-- **Description**: descriptions for transaction are shown
-- **Amount**: the amount of the transaction.
+- **Date**: Transaction's date.
+- **Account Name**: The account	affected by the transaction
+- **Type**: Type of the transaction.
+- **Category**: Category of the transaction.
+- **Description**: Any applicable description.
+- **Amount**: The amount of the transaction.
 
-
-![Transfer](_images/transactions_list.png)
+![transfers list](_images/transactions_list.png)

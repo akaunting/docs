@@ -3,7 +3,7 @@ Transfers
 
 Sometimes you may want to transfer money from one account to another. For example, moving your cash money to bank. In such a case, Akaunting will create a revenue and payment record for the respected accounts.
 
-Transfers page is located under **Banking > Transfers**. On this page you can see all transfers, search for any, create a new one, edit the current ones and delete them.
+Transfers page is located under **Banking > Transfers** menu. On this page you can see all transfers, search for any, create a new one, edit the current ones and delete them.
 
 Money transferred between accounts with different currencies will be converted automatically by Akaunting, based on the currency rates you have set up from **Settings > Currencies** page.
 
