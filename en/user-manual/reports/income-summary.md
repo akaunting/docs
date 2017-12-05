@@ -1,7 +1,7 @@
 Income Summary
 ==============
 
-Income Summary page is located under **Reports > Income Summary** menu. This report give you as a business owner a good idea of where your business incomes stands, month by month and categorised.
+Income Summary page is located under **Reports > Income Summary** menu. This report give you as a business owner a good idea of where your business income stands, month by month and categorised.
 
 ![income summary](_images/income-summary.png)
 

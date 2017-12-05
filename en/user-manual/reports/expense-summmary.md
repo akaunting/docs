@@ -1,7 +1,7 @@
 Expense Summary
 ===============
 
-Expense Summary page is located under **Reports > Expense Summary** menu. This report give you as a business owner a good idea of where your business expenses stands, month by month and categorised.
+Expense Summary page is located under **Reports > Expense Summary** menu. This report give you as a business owner a good idea of where your business expense stands, month by month and categorised.
 
 ![expense summary](_images/expense-summary.png)
 
