@@ -1,23 +1,28 @@
 Categories
-========
+==========
 
-To access the Categories page in the administration, hover over the Settings button and click on Categories in the drop-down. You will be a directed to a page that displays the category names (as seen below).
+Categories help you separate items, incomes, and expenses from each other.
 
-![categories](_images/categories_list.png)
+Categories page is located under **Settings > Categories** menu. On this page you can see all categories, search for any, create a new one, edit the current ones and delete them.
 
-The categories above were included with the default products provided by the install. You may delete them to make room for the store's product categories. The red "**Delete**" button on right side of each category will help you to remove the category completely. The blue "**Edit**" button will help you to edit a specific category, or you can click over the name of the category to redirect to you edit page.
+The following fields are displayed:
 
-Clicking "**Edit**" button will direct the administrator to a form to change the category information. Clicking "**Add New**" will allow the shop owner to insert more categories to the site.
+- **Name**: Category's name.
+- **Type**: Categories are shown in items, incomes, and expenses page based on type.
+- **Colour**: Category's colour, used in dashboard charts.
+- **Status**: Status of the category.
+- **Actions**: You can use this button to edit, and delete the category.
 
-Create a category
------------------
+![categories list](_images/categories_list.png)
 
-There are four (4) pieces of information associated with each new Category: the Name, Type, Colour and Enabled.
+## New Category
 
-- **Category Name**: To reiterate, the Category Name must be unique.
-- **Type**: Is the type of category that means for with operation you want to use this category.
-- **Colour**: Allows you to add a special colour for each category.
+The following fields are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
 
-![category edit basic information](_images/categories_edit.png)
+- **Name**: Category's name.
+- **Type**: Type of category. It will be shown in items, incomes, and expenses page based on type.
+- **Colour**: This colour will be used in dashboard charts.
+- **Status**: Status of the category.
 
-- **Enabled**: Selecting "Yes" makes the category publicly available in the store front. Selecting "No" will hide the category from operation pages, but will still be available for editing purposes in the administration.
+![categories form](_images/categories_form.png)
+
