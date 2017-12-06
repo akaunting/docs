@@ -18,7 +18,7 @@ The following fields are displayed:
 
 ## New Payment
 
-The following feilds are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
+The following feilds are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
 
 - **Date**: Paid date.
 - **Amount**: Amount of the payment.

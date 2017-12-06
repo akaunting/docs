@@ -15,7 +15,7 @@ The following details are displayed:
 
 ## New Vendor
 
-The following fields are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
+The following fields are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
 
 - **Name**: Vendor's full name.
 - **Email**: Vendor's email adress.

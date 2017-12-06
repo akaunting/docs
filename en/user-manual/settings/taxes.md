@@ -1,20 +1,26 @@
 Tax Rates
-=====
+=========
 
-To access the Tax Rates page in the administration, hover over the Setting button and click on Tax Rates in the drop-down. You will be a directed to a page that displays the taxes names (as seen below).
+Tax is be used to apply fee to invoices, revenues, bills, and payments.
 
-The tax rate will be used to calculate the taxes from an invoice, bill, revenue and payment. The following information is needed to save a tax rate to the administration:
+Tax Rates page is located under **Settings > Tax Rates** menu. On this page you can see all tax rates, search for any, create a new one, edit the current ones and delete them.
 
-![install language](_images/taxes_list.png)
+The following fields are displayed:
 
-**Create a Tax Rate**
----------------------
-There are four (3) pieces of information associated with each new Tax Rate: the Name, Rate and Enabled.
+- **Name**: Tax's name.
+- **Rate**: Tax's rate.
+- **Status**: Status of the tax.
+- **Actions**: You can use this button to edit, and delete the tax.
 
+![taxes list](_images/taxes_list.png)
 
-- **Tax Name**: A name for the tax that will be displayed in the store front when taxes are added to order total.
-- **Tax Rate**: A number value for the tax.
--  **Enabled**: Selecting "Yes" makes the tax rate publicly available in the software. Selecting "No" will hide the tax rate from operation pages, but will still be available for editing purposes in the administration.
+## New Tax Rate
 
-![install language](_images/taxes_edit.png)
+The following fields are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
+
+- **Name**: Tax's name.
+- **Rate**: Tax's rate as a percentage.
+- **Enabled**: Status of the tax.
+
+![taxes form](_images/taxes_form.png)
 

@@ -18,7 +18,7 @@ The following fields are displayed:
 
 ## New Transfer
 
-The following fields are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
+The following fields are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
 
 - **From Account**: The account	money get out.
 - **To Account**: The account money get in.

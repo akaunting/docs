@@ -17,7 +17,7 @@ The following fields are displayed:
 
 ## New Invoice
 
-The following fields are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
+The following fields are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
 
 - **Customer**: Who will pay the invoice.
 - **Currency**: Currency used.

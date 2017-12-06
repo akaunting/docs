@@ -17,7 +17,7 @@ The following fields are displayed:
 
 ## New Bill
 
-The following fields are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
+The following fields are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
 
 - **Vendor**: To whom will pay the bill.
 - **Currency**: Currency used.

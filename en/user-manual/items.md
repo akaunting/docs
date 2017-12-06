@@ -18,7 +18,7 @@ The following fields are displayed:
 
 ## New Item
 
-The following details are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
+The following details are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
 
 - **Name**: Item's name.
 - **SKU**: Item's sku. SKU is a unique field.

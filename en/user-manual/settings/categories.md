@@ -17,7 +17,7 @@ The following fields are displayed:
 
 ## New Category
 
-The following fields are displayed as blank to be filled, some are required and some not. Those who are marked with red star are required fields.
+The following fields are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
 
 - **Name**: Category's name.
 - **Type**: Type of category. It will be shown in items, incomes, and expenses page based on type.

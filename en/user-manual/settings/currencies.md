@@ -1,18 +1,26 @@
 Currencies
 ==========
 
-The currencies sections lets you select which currencies are available for use in software. The default currency will display all the prices in that currency. The currency preference can be changed by the customer in the header section of any page in the front office.
+Currencies page is located under **Settings > Currencies** menu. On this page you can see all currencies, search for any, create a new one, edit the current ones and delete them.
 
-In the store below, we have enabled the **British Pound**, **Euro**, **Turkish Lira** and **US Dollar**.
+The following fields are displayed:
 
-![currency page](_images/currencies_list.png)
+- **Name**: Currency's name.
+- **Code**: Unique ISO code of currency.
+- **Rate**: The rate against the default currency. Default currency rate is always 1.
+- **Status**: Status of the currency.
+- **Actions**: You can use this button to edit, and delete the currency.
 
-The following information is needed about a currency to add it to your software:
+![currencies list](_images/currencies_list.png)
 
-- **Currency Name**
+## New Currency
+
+The following fields are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
+
+- **Name**
 - **Code:** The ISO code for the currency. Currency codes can be looked up at this [currency converter](http://www.oanda.com/currency/?srccont=rightnav).
-- **Rate:** The Default currency will be set to a value of 1. Every value of currency will be relative to this value. Since the US Dollar is 1.0 (the default), the Euro is tabulated to .81 for the value based on its worth.
-- **Default Currency:** The default currency prices will be displayed in.
-- **Status:** Enables or disables the currency in the software.
+- **Rate:** The rate against the default currency. Default currency rate is always 1.
+- **Default Currency:** Set as the default currency of company. All reports are shown under the default currency.
+- **Status:** Status of the currency.
 
-![currency edit page](_images/currencies_edit.png)
+![currencies form](_images/currencies_form.png)
