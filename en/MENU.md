@@ -24,9 +24,12 @@
 		* [Expense Summary](user-manual/reports/expense-summary)
 		* [Income vs Expense](user-manual/reports/income-vs-expense)
 	* Settings
+		* [General](user-manual/settings/general)
 		* [Categories](user-manual/settings/categories)
 		* [Currencies](user-manual/settings/currencies)
 		* [Tax Rates](user-manual/settings/taxes)
+		* [Offline Payments](user-manual/settings/offline-payments)
+		* [PayPal Standard](user-manual/settings/paypal-standard)
 	* [Apps](user-manual/apps)
 	* [Users](user-manual/auth/users)
 * FAQ
