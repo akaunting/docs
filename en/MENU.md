@@ -36,7 +36,7 @@
     * [Accrual vs Cash](faq/accrual-vs-cash)
     * [Invoices vs Revenues](faq/invoices-vs-revenues)
     * [Bills vs Payments](faq/bills-vs-payments)
-    * [Auto Generate Bill Number](faq/auto-generate-bill-number)
+    * [Auto Bill Number](faq/auto-bill-number)
 * Developer Manual
     * [Debug](developer-manual/debug)
     * [Modules](developer-manual/modules)
