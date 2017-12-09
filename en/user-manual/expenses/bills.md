@@ -5,7 +5,7 @@ Bills page is located under **Expenses > Bills**. On this page you can see all b
 
 The following fields are displayed:
 
-- **Number**: The number assigned to the bill.
+- **Number**: The number assigned to the bill, by your vendor.
 - **Vendor**: To whom will pay the bill.
 - **Amount**: Amount of the bill.
 - **Invoice Date**: Date when the bill is issued.
@@ -23,7 +23,7 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Currency**: Currency used.
 - **Bill Date**: Date when the bill is issued.
 - **Due Date**: Date when the bill is due to be paid.
-- **Bill Number**: The number assigned to the bill.
+- **Bill Number**: The number assigned to the bill, by your vendor.
 - **Order Number**: A number assigned to an order for that bill.
 - **Items**: The list of all items that can be assigned to that bill. You can add multiple items.
 	- **Actions**: There are 2 (two) actions; Add and Delete.
