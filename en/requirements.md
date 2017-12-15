@@ -9,6 +9,7 @@ Environment
 * PHP 5.6.4 or higher
 * Database (eg: [MySQL, PostgreSQL, SQLite, SQL Server](https://laravel.com/docs/5.4/database))
 * Web Server (eg: Apache, Nginx, IIS)
+* URL Rewrite (mod_rewrite)
 
 PHP Extensions
 --------------
