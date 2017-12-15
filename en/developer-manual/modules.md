@@ -22,12 +22,13 @@ modules/
       ├── Database/
           ├── Migrations/
           ├── Seeders/
-      ├── Entities/
       ├── Http/
           ├── Controllers/
           ├── Middleware/
           ├── Requests/
           ├── routes.php
+      ├── Listeners/
+      ├── Models/
       ├── Providers/
           ├── BlogServiceProvider.php
       ├── Resources/
