@@ -3,7 +3,7 @@ Modules
 
 Akaunting ships with core accounting tools needed to manage the money. It also has a module structure so that you could extend it. Akaunting uses the [nWidart](https://github.com/nWidart/laravel-modules) module package as builder.
 
-Module is like a Laravel package, it has some routes, views, controllers or models. While technical we call it `Module`, we name it `App` for the end user as that what they are familiar to.
+Module is like a Laravel package, it has some routes, views, controllers or models. While technical we call it `Module`, we name it `App` for the end-user as that's what they are familiar to.
 
 ### Folder Structure
 
