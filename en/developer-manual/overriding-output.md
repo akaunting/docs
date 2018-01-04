@@ -33,14 +33,14 @@ class Customers
     public function compose(View $view)
     {
         // Override just the 'content' section
-        $view->getFactory()->startSection('content', view('foobar::customers'));
+        $view->getFactory()->startSection('content', view('foobar::customers.create'));
 
         // Override the whole file
-        $view->setPath(view('foobar::customers')->getPath());
+        $view->setPath(view('foobar::customers.create')->getPath());
     }
 }
 ```
 
-Finally, create a Blade file `Resources/views/customers.blade.php` with your custom output.
+Finally, create a [Blade](https://laravel.com/docs/5.4/blade) template file `modules/FooBar/Resources/views/customers/create.blade.php` with your custom output. The original one is located in `resources/views/incomes/customers/create.blade.php` file.
 
-If you want to also modify the data stored in the database, then you can listed to the Laravel's Eloquent [events](https://laravel.com/docs/5.4/eloquent#events).
+If you also want to modify the data stored in the database, then you can listen to the Laravel's Eloquent [events](https://laravel.com/docs/5.4/eloquent#events).
