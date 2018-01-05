@@ -43,4 +43,4 @@ class Customers
 
 Finally, create a [Blade](https://laravel.com/docs/5.4/blade) template file `modules/FooBar/Resources/views/customers/create.blade.php` with your custom output. The original one is located in `resources/views/incomes/customers/create.blade.php` file.
 
-If you also want to modify the data stored in the database, then you can listen to the Laravel's Eloquent [events](https://laravel.com/docs/5.4/eloquent#events).
+If you also want to modify the data stored in the database, then you can create an Observer to listen Eloquent's [events](https://laravel.com/docs/5.4/eloquent#events).
