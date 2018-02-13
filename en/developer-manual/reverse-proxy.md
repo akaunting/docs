@@ -21,4 +21,4 @@ Now you can enter your proxy details in the `config/trustedproxy.php` file like 
 'proxies' => '*',
 ```
 
-[Here](https://github.com/fideloper/TrustedProxy#configure-trusted-proxies) you can find more details about configuration.
+[Here](https://github.com/akaunting/akaunting/issues/213) you can find an example with Apache as a reverse proxy and [here](https://github.com/fideloper/TrustedProxy#configure-trusted-proxies) there are more details about configuration.
