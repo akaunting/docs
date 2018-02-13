@@ -44,3 +44,4 @@
     * [Permissions](developer-manual/permissions)
     * [Overriding Output](developer-manual/overriding-output)
     * [RESTful API](developer-manual/restful-api)
+    * [Reverse Proxy](developer-manual/reverse-proxy)
