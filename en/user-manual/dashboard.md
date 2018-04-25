@@ -1,7 +1,7 @@
 Dashboard
 =========
 
-The dashboard is the first thing you will see when entering Akaunting. The main function of the dashboard is to give the owner an overview of how the business is performing. Dashboard reports shows the accrued incomes and expenses, except Cash Flow chart. [Here](https://akaunting.com/docs/faq/accrual-vs-cash) you can learn more about cash and accrual accounting.
+The dashboard is the first thing you will see when entering Akaunting. The main function of the dashboard is to give the owner an overview of how the business is performing. Dashboard reports show the accrued incomes and expenses, except Cash Flow chart. [Here](https://akaunting.com/docs/faq/accrual-vs-cash) you can learn more about cash and accrual accounting.
 
 Totals and charts are displayed under the default currency. Invoices, revenues, bills, and payments created under a different currency will be converted based on the currency rate at the time they were created.
 
