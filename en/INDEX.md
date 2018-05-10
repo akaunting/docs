@@ -7,7 +7,7 @@ This guide serves as a resource to users and developers needing direction in Aka
 
 ### Users
 
-You may start with the [dashboard](https://akaunting.com/docs/user-manual/dashboard) page and the [toolbar](https://akaunting.com/docs/user-manual/toolbar) description. Then see how [companies](https://akaunting.com/docs/user-manual/companies) work and check [users](https://akaunting.com/docs/user-manual/users) page for permissions. Confused about the difference between invoices and revenues? [Check](https://akaunting.com/docs/faq/invoices-vs-revenues) it out. Here you can [learn](https://akaunting.com/docs/faq/bills-vs-payments) what is a payment and a bill.
+You may start with the [dashboard](https://akaunting.com/docs/user-manual/dashboard) page and the [toolbar](https://akaunting.com/docs/user-manual/toolbar) description. Then see how [companies](https://akaunting.com/docs/user-manual/companies) work and check [users](https://akaunting.com/docs/user-manual/auth/users) page for permissions. Confused about the difference between invoices and revenues? [Check](https://akaunting.com/docs/faq/invoices-vs-revenues) it out. Here you can [learn](https://akaunting.com/docs/faq/bills-vs-payments) what is a payment and a bill.
 
 ### Developers
 
