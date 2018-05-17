@@ -23,9 +23,9 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Date**: Paid date.
 - **Amount**: Amount of the revenue.
 - **Account**: Account paid to.
-- **Currency**: Currency used.
 - **Description**: Custom description for the revenue.
-- **Category**: Category of the revenue. Will be used in reports.
+- **Category**: Category of the revenue to be used in reports.
+- **Recurring**: Automatically create revenues for ongoing jobs. Times=0 means infinite. Don't forget to set the *Cron Command* available at *Settings > General > [Scheduling](https://akaunting.com/docs/user-manual/settings/general)*.
 - **Customer**: Who paid the revenue.
 - **Payment Method**: Method used to pay the revenue.
 - **Reference**: Any possible reference.

@@ -23,9 +23,9 @@ The following feilds are displayed as blank to be filled, some are required and 
 - **Date**: Paid date.
 - **Amount**: Amount of the payment.
 - **Account**: Account used to pay.
-- **Currency**: Currency used.
 - **Description**: Custom description for the payment.
-- **Category**: Category of the payment. Will be used in reports.
+- **Category**: Category of the payment to be used in reports.
+- **Recurring**: Automatically create payments for ongoing jobs. Times=0 means infinite. Don't forget to set the *Cron Command* available at *Settings > General > [Scheduling](https://akaunting.com/docs/user-manual/settings/general)*.
 - **Vendor**: To whom made the payment.
 - **Payment Method**: Method used to pay.
 - **Reference**: Any possible reference.
