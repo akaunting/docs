@@ -37,6 +37,7 @@
     * [Invoices vs Revenues](faq/invoices-vs-revenues)
     * [Bills vs Payments](faq/bills-vs-payments)
     * [Auto Bill Number](faq/auto-bill-number)
+    * [Double-Entry](faq/double-entry-accounting)
 * Developer Manual
     * [Debug](developer-manual/debug)
     * [Modules](developer-manual/modules)
