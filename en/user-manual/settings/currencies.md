@@ -20,7 +20,12 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Name**
 - **Code:** The ISO code for the currency. Currency codes can be looked up at this [currency converter](http://www.oanda.com/currency/?srccont=rightnav).
 - **Rate:** The rate against the default currency. Default currency rate is always 1.
+- **Precision:** This defines number of fractions to be used.
+- **Symbol:** The symbol of currency.
+- **Symbol Position:** The position symbol.
+- **Decimal Mark:** The mark to be used for decimal part.
+- **Thousands Separator:** The mark to be used for thausands part.
+- **Enabled:** Status of the currency.
 - **Default Currency:** Set as the default currency of company. All reports are shown under the default currency.
-- **Status:** Status of the currency.
 
 ![currencies form](_images/currencies_form.png)

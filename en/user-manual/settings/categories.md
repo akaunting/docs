@@ -22,7 +22,7 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Name**: Category's name.
 - **Type**: Type of category. It will be shown in items, incomes, and expenses page based on type.
 - **Colour**: This colour will be used in dashboard charts.
-- **Status**: Status of the category.
+- **Enabled**: Status of the category.
 
 ![categories form](_images/categories_form.png)
 
