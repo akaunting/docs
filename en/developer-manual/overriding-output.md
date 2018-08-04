@@ -37,6 +37,9 @@ class Customers
 
         // Override the whole file
         $view->setPath(view('foobar::customers.create')->getPath());
+
+        // Push to a stack
+        $view->getFactory()->startPush('scripts', view('foobar::script'));
     }
 }
 ```
