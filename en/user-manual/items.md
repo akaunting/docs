@@ -8,7 +8,7 @@ The following fields are displayed:
 - **Picture**: Item's picture.
 - **Name**: Item's name.
 - **Category**: Category of item, if applicable.
-- **Quantity**: How many items are available. This is usefull for stock management. Quantity gets descreased whenever an invoice is created and increased when a bill is created.
+- **Quantity**: How many items are available. This is useful for stock management. Quantity gets decreased whenever an invoice is created and increased when a bill is created.
 - **Sale Price**: This price will be populated in invoices.
 - **Purchase Price**: This price will be populated in bills.
 - **Status**: Disabled items don't get populated when creating invoices/bills.
