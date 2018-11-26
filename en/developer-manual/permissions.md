@@ -1,7 +1,7 @@
 Permissions
 ===========
 
-Akaunting provides a powerful ACL system thanks to the wonderful [Laratrust](https://github.com/santigarcor/laratrust) package for Laravel. It ships with very useful funcitons to be used on both PHP and Blade templates.
+Akaunting provides a powerful ACL system thanks to the wonderful [Laratrust](https://github.com/santigarcor/laratrust) package for Laravel. It ships with very useful functions to be used on both PHP and Blade templates.
 
 Akaunting adds even more power to Laratrust with an easy to use interface to manage all Users, Roles and Permissions.
 
