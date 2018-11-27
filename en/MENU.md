@@ -39,13 +39,13 @@
     * [Auto Bill Number](faq/auto-bill-number)
 * App Manual
 	* Accounting
-        * [Custom Fields](apps/custom-fields)
-        * [Double-Entry](apps/double-entry)
+        * [Custom Fields](app-manual/accounting/custom-fields)
+        * [Double-Entry](app-manual/accounting/double-entry)
 	* Analytics
 	* CRM
 	* eCommerce
-        * [OpenCart](apps/opencart)
-        * [WooCommerce](apps/woocommerce)
+        * [OpenCart](app-manual/ecommerce/opencart)
+        * [WooCommerce](app-manual/ecommerce/woocommerce)
 	* Help Desk
 	* Inventory
 	* Payment Gateway
