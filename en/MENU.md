@@ -37,7 +37,21 @@
     * [Invoices vs Revenues](faq/invoices-vs-revenues)
     * [Bills vs Payments](faq/bills-vs-payments)
     * [Auto Bill Number](faq/auto-bill-number)
-    * [Double-Entry](faq/double-entry-accounting)
+* App Manual
+	* Accounting
+        * [Custom Fields](apps/custom-fields)
+        * [Double-Entry](apps/double-entry)
+	* Analytics
+	* CRM
+	* eCommerce
+        * [OpenCart](apps/opencart)
+        * [WooCommerce](apps/woocommerce)
+	* Help Desk
+	* Inventory
+	* Payment Gateway
+	* Point of Sale
+	* Project Management
+	* Time Tracking
 * Developer Manual
     * [Debug](developer-manual/debug)
     * [Modules](developer-manual/modules)
