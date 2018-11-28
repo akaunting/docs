@@ -17,4 +17,6 @@ In addition to the conventions available the main [README](https://github.com/ak
 
  - The link added to the **MENU.md** must be like **app-manual/{category}/{slug}**. For example, *app-manual/ecommerce/woocommerce*
 
+ - The link added to the **MENU.md** must be in alphabetic order.
+
 Thank You
