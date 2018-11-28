@@ -1,5 +1,5 @@
-OFX İmport
-=============
+OFX Import
+============
 
 **What’s OFX File?** 
 
@@ -7,7 +7,7 @@ An OFX (Open Financial Exchange) file is a text file containing financial data.
 
 **How to use?**
 
-**Step1:** Buy  “Import an OFX Bank Statement” on Akaunting app store. 
+**Step1:** Buy [Here](https://akaunting.com/apps/ofx) “OFX Import” on Akaunting app store. 
 **Step2:** Click Settings -> "Import an OFX" in the left menu. 
 
 ![new field](_images/ofximport.PNG)
