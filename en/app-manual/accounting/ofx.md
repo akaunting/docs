@@ -11,7 +11,7 @@ An OFX (Open Financial Exchange) file is a text file containing financial data.
 
 **Step2:** Click Settings -> "Import an OFX" in the left menu. 
 
-![new field](_images/import_ofx.png)
+![new field](_images/import-ofx.png)
 
 **Step3:** The file OFX to be transferred is selected and the press transfer button. 
 
@@ -19,7 +19,7 @@ An OFX (Open Financial Exchange) file is a text file containing financial data.
 - The currency is checked. The currency is automatically added if it is not attached as a currency. 
 - If this information is not available, the user is asked to fill in the missing information. 
 
-![new field](_images/create_bank.png)
+![new field](_images/create-bank.png)
 
 **Step5:** Transfer successful message is given and transfer is provided. 
 
