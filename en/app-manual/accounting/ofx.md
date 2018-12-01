@@ -9,7 +9,7 @@ An OFX (Open Financial Exchange) file is a text file containing financial data.
 
 **Step1:** Buy [Here](https://akaunting.com/apps/ofx) “OFX Import” on Akaunting app store. 
 
-**Step2:** Click Settings -> "Import an OFX" in the left menu. 
+**Step2:** Click Settings -> "OFX Import" in the left menu. 
 
 ![new field](_images/import-ofx.png)
 
