@@ -51,7 +51,7 @@
 	* Inventory
 	* Notification
 	* Operation
-		* [Custom Fields](app-manual/accounting/custom-fields)
+		* [Custom Fields](app-manual/operation/custom-fields)
 	* Payment Gateway
 	* Payroll
 	* Point of Sale
