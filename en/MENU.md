@@ -39,7 +39,6 @@
     * [Auto Bill Number](faq/auto-bill-number)
 * App Manual
 	* Accounting
-		* [Custom Fields](app-manual/accounting/custom-fields)
 		* [Double-Entry](app-manual/accounting/double-entry)
 	* Analytics
 	* CRM
@@ -47,10 +46,15 @@
 		* [OpenCart](app-manual/ecommerce/opencart)
 		* [WooCommerce](app-manual/ecommerce/woocommerce)
 	* Help Desk
+	* Import
+		* [OFX](app-manual/import/ofx)
 	* Inventory
+	* Notification
+	* Operation
+		* [Custom Fields](app-manual/accounting/custom-fields)
 	* Payment Gateway
+	* Payroll
 	* Point of Sale
-	* Project Management
 	* Time Tracking
 * Developer Manual
     * [Debug](developer-manual/debug)
