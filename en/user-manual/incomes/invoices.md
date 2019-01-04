@@ -30,7 +30,7 @@ The following fields are displayed as blank to be filled, some are required and 
 	- **Name**: The name of item. It will populate records from *Items* page after you start typing their name. It can also be a custom item.
 	- **Quantity**: Default is 1. You can enter decimal quantity (1.7)
 	- **Price**: The sale price of item. It will bring it automatically but you have the opportunity to change it if you want.
-	- **Tax**: The list of applicable Tax Rates. You can add new taxes or change the rate of tax from "*Settings > Tax Rates* page".
+	- **Tax**: The list of applicable Tax Rates. You can select multiple taxes. See the *Settings > Tax Rates* documentation for more details.
 	- **Total**: It will calculate automatically the total price of item according the quantity and tax. It is not an editable field.
 	- **Subtotal**: The total prices of items without taxes.
 	- **Tax**: The total price of taxes.
@@ -47,6 +47,10 @@ The following fields are displayed as blank to be filled, some are required and 
 The following image shows the details page of an invoice:
 
 ![invoice show](_images/invoices_show.png)
+
+### Share
+
+The share button gives you a unique invoice link so you could send it to your customer and allow them to pay the invoice without having to login.
 
 ### Actions
 

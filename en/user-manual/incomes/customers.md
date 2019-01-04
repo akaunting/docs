@@ -8,6 +8,7 @@ The following fields are displayed:
 - **Name**: Customer's full name.
 - **Email**: Customer's email address.
 - **Phone**: Customer's phone number.
+- **Unpaid**: The amount that customer has not paid yet.
 - **Status**: Status of the customer.
 - **Actions**: You can use this button to edit, duplicate, and delete the customer.
 
@@ -24,6 +25,7 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Address**: Customer's address.
 - **Currency**: Default currency to be used for the customer.
 - **Enabled**: Status of the customer.
+- **Reference**: Any possible reference.
 - **Allow Login**: Selecting this option will ask you for password. You customer may access the Client Portal using their email and password and so on see/pay the invoices assigned to them.
 
 ![customers form](_images/customers_form.png)
