@@ -9,6 +9,7 @@ The following fields are displayed:
 
 - **Name**: Tax's name.
 - **Rate**: Tax's rate.
+- **Type**: Tax's type.
 - **Status**: Status of the tax.
 - **Actions**: You can use this button to edit, and delete the tax.
 
@@ -20,6 +21,7 @@ The following fields are displayed as blank to be filled, some are required and 
 
 - **Name**: Tax's name.
 - **Rate**: Tax's rate as a percentage.
+- **Type**: Tax's type. Inclusive tax is calculated into the price of the item. Compound tax is calculated on top of the other taxes.
 - **Enabled**: Status of the tax.
 
 ![taxes form](_images/taxes_form.png)
