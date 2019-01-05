@@ -19,6 +19,7 @@
 		* [Accounts](user-manual/banking/accounts)
 		* [Transfers](user-manual/banking/transfers)
 		* [Transactions](user-manual/banking/transactions)
+		* [Reconciliations](user-manual/banking/reconciliations)
 	* Reports
 		* [Income Summary](user-manual/reports/income-summary)
 		* [Expense Summary](user-manual/reports/expense-summary)
