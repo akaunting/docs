@@ -56,7 +56,7 @@ General settings page is located under **Settings > General** menu. On this page
 - **Send After Due Days**: Enter the days after the due date to send the bill reminder.
 - **Send Item Reminder**: Send item reminder email to yourself.
 - **Send When Item Stock**: Enter the quantities the item must drop to send the item reminder.
-- **Cron Command**: Copy the command and enter into your Cron Job system. Replace the *path-to-akaunting* part whith the full path where you've installed Akaunting. Contact your hosting provider to get further help about Cron.
+- **Cron Command**: Copy the command to your Cron Job system. Set it to run *every minute*. Replace the *path-to-akaunting* part whith the full path where you've installed Akaunting. Contact your hosting provider to get further help about Cron.
 - **Hour To Run**: Enter the hour you want the command to run.
 
 ![general scheduling](_images/general_scheduling.png)
