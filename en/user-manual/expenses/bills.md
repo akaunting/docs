@@ -8,7 +8,7 @@ The following fields are displayed:
 - **Number**: The number assigned to the bill, by your vendor.
 - **Vendor**: To whom will pay the bill.
 - **Amount**: Amount of the bill.
-- **Invoice Date**: Date when the bill is issued.
+- **Bill Date**: Date when the bill is issued.
 - **Due Date**: Date when the bill is due to be paid.
 - **Status**: The status of the bill.
 - **Actions**: You can use this button to show, edit, duplicate, and delete the bill.
