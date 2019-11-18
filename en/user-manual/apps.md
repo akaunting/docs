@@ -7,9 +7,9 @@ While we strongly believe that Akaunting is the best free accounting software ou
 
 For example, an app can connect your online store built with WooCommerce so that products, customers, and orders could get transferred to Akaunting automatically. Another one may connect with a CRM. And another one may be a payment gateway such as PayPal, Stripe etc to be used on the client side of Akaunting software to pay invoices online.
 
-## Tokens
+## API Key
 
-In order to access the App Store from your Akaunting software installation, and install the apps you've purchased, you will need to create an [API token](https://akaunting.com/tokens) and enter it when you get asked for. That is the bridge between the software and site (akaunting.com).
+In order to access the App Store from your Akaunting software installation, and install the apps you've purchased, you will need to get your [API Key](https://akaunting.com/profile) and enter it when you get asked for. That is the bridge between the software and site (akaunting.com).
 
 ## Buy
 
@@ -29,4 +29,4 @@ You can uninstall and/or disable the app from their details page. Paid apps are 
 
 ## App Settings
 
-App settings are generally located under the **Settings** menu.
+App settings are available in the [Settings](https://akaunting.com/docs/user-manual/settings/settings) page.
