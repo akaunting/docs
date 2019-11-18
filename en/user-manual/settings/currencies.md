@@ -1,7 +1,7 @@
 Currencies
 ==========
 
-Currencies page is located under **Settings > Currencies** menu. On this page you can see all currencies, search for any, create a new one, edit the current ones and delete them.
+Currencies page is located under **Settings > Currencies** page. On this page you can see all currencies, search for any, create a new one, edit the current ones and delete them.
 
 The following fields are displayed:
 

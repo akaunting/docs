@@ -3,7 +3,7 @@ Categories
 
 Categories help you separate items, incomes, and expenses from each other.
 
-Categories page is located under **Settings > Categories** menu. On this page you can see all categories, search for any, create a new one, edit the current ones and delete them.
+Categories page is located under **Settings > Categories** page. On this page you can see all categories, search for any, create a new one, edit the current ones and delete them.
 
 The following fields are displayed:
 

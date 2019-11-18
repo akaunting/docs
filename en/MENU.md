@@ -25,7 +25,12 @@
 		* [Expense Summary](user-manual/reports/expense-summary)
 		* [Income vs Expense](user-manual/reports/income-vs-expense)
 	* Settings
-		* [General](user-manual/settings/general)
+		* [Company](user-manual/settings/company)
+		* [Localisation](user-manual/settings/localisation)
+		* [Invoice](user-manual/settings/invoice)
+		* [Default](user-manual/settings/default)
+		* [Email](user-manual/settings/email)
+		* [Scheduling](user-manual/settings/scheduling)
 		* [Categories](user-manual/settings/categories)
 		* [Currencies](user-manual/settings/currencies)
 		* [Tax Rates](user-manual/settings/taxes)

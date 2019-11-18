@@ -1,7 +1,7 @@
 PayPal Standard
 ================
 
-PayPal Standard page is located under **Settings > PayPal Standard** menu. On this page you can enter your PayPal details.
+PayPal Standard page is located under **Settings > PayPal Standard** page. On this page you can enter your PayPal details.
 
 The following fields are displayed:
 
