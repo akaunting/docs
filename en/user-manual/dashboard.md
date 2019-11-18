@@ -1,20 +1,32 @@
 Dashboard
 =========
 
-The dashboard is the first thing you will see when entering Akaunting. The main function of the dashboard is to give the owner an overview of how the business is performing. Dashboard reports show the accrued incomes and expenses, except Cash Flow chart. [Here](https://akaunting.com/docs/faq/accrual-vs-cash) you can learn more about cash and accrual accounting.
+Dashboard is the first thing you will see when entering Akaunting. It is an adjustable view that may contain many types of information widgets, such as income/expense/profit totals, cash flow, incomes/expenses by category, latests incomes/expense, and more added by apps. You can have several dashboards that serve different purposes and switch between them.
 
-Totals and charts are displayed under the default currency. Invoices, revenues, bills, and payments created under a different currency will be converted based on the currency rate at the time they were created.
+Widgets show the accrued incomes and expenses, except Cash Flow chart. [Here](https://akaunting.com/docs/faq/accrual-vs-cash) you can learn more about cash and accrual accounting.
+
+![dashboard](_images/dashboard.png)
+
+## Multiple Dashboards
+
+You can have several dashboards that serve different purposes and switch between them. To create a dashboard; click on the horizontal ellipsis (three dots) nearby the **Dashboard** word and select the **Add Dashboard** option.
+
+After adding new dashboards, the *Dashboard* menu will turn into a dropdown menu from where you can switch between dashboards.
+
+![add dashboard](_images/add_dashboard.png)
+
+## Widgets
+
+Akaunting comes with a number of out-of-the-box widgets that can simplify the day-to-day activities.
 
 - **Totals:** Sum up the income, expense and profit state of your business. They also show the upcoming (not paid) invoices/bills.
-- **Cash Flow:** Shows the income, expense and profit in cash per day and/or month.
-- **Incomes By Category:** A pie chart to show the distribution of incomes. *Invoices* are a shown as a category of itself.
-- **Expenses By Category:** A pie chart to show the distribution of expenses. *Bills* are a shown as a category of itself.
+- **Cash Flow:** Shows the income, expense and profit in cash per month/quarter.
+- **Incomes By Category:** A pie chart to show the distribution of incomes.
+- **Expenses By Category:** A pie chart to show the distribution of expenses.
 - **Account Balance:** It shows the balance of each account you've added.
 - **Latest Incomes:** A list that displays the last 5 incomes.
 - **Latest Expenses:** A list that displays the last 5 expenses.
 
-![dashboard](_images/dashboard.png)
+Total and chart widgets are displayed under the default currency. Invoices, revenues, bills, and payments created under a different currency will be converted based on the currency rate at the time they were created.
 
-### Menu
-
-In the left side of there is a navigation menu. You can navigate between the **Items**, **Incomes**, **Expenses**, **Banking**, **Reports**, **Settings** and **Apps**. These sections will be explained in further detail in the following sections of the User Manual.
+![add widget](_images/add_widget.png)
