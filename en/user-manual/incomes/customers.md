@@ -20,12 +20,13 @@ The following fields are displayed as blank to be filled, some are required and 
 
 - **Name**: Customer's full name.
 - **Email**: Customer's email address.
+- **Tax Number**: Vendor's tax number.
+- **Currency**: Default currency to be used for the customer.
 - **Phone**: Customer's phone number.
 - **Website**: Customer's website.
 - **Address**: Customer's address.
-- **Currency**: Default currency to be used for the customer.
 - **Enabled**: Status of the customer.
 - **Reference**: Any possible reference.
-- **Allow Login**: Selecting this option will ask you for password. You customer may access the Client Portal using their email and password and so on see/pay the invoices assigned to them.
+- **Can Login**: Selecting this option will ask you for password. You customer may access the Client Portal using their email and password and so on see/pay the invoices assigned to them.
 
 ![customers form](_images/customers_form.png)
