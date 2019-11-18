@@ -30,7 +30,7 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Payment Method**: Method used to pay the revenue.
 - **Reference**: Any possible reference.
 - **Attachment**: You can attach file related to the revenue.
-- **Invoice**: You can attach the payment to a invoice.
+- **Invoice**: You can attach the payment to an invoice.
 
 ![revenues form](_images/revenues_form.png)
 

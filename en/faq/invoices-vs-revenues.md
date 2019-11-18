@@ -1,7 +1,7 @@
 Invoices vs Revenues
 ====================
 
-There are two types of incomes within Akaunting: Invoices and Revenues. They are totally different entries and there is no link between.
+There are two types of incomes within Akaunting: Invoices and Revenues.
 
 ## TL;DR
 
@@ -13,4 +13,4 @@ Invoice is a document sent to your customer that indicates the items sold by you
 
 ## Revenues
 
-Revenue is a non-invoicable and paid income. There are no items within the revenues. Tax is not applicable.
+Revenue is a non-invoicable and paid income. There are no items within the revenues. Tax is not applicable. You can also attach the revenue to an invoice as a transaction.
