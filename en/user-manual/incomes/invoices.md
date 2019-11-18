@@ -36,8 +36,9 @@ The following fields are displayed as blank to be filled, some are required and 
 	- **Tax**: The total price of taxes.
 	- **Total**: The final amount of invoice, including everything.
 - **Notes**: You can add a custom note to the invoice.
+- **Footer**: You can add a custom footer such as bank account details to the invoice.
 - **Category**: Category of the invoice to be used in reports.
-- **Recurring**: Automatically create invoices for ongoing jobs. Times=0 means infinite. Don't forget to set the *Cron Command* available at *Settings > General > [Scheduling](https://akaunting.com/docs/user-manual/settings/general)*.
+- **Recurring**: Automatically create invoices for ongoing jobs. Times=0 means infinite. Don't forget to set the *Cron Command* available at *Settings > [Scheduling](https://akaunting.com/docs/user-manual/settings/scheduling)*.
 - **Attachment**: You can attach file related to the invoice.
 
 ![invoice](_images/invoices_form.png)
