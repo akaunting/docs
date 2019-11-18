@@ -1,5 +1,5 @@
 Companies
-========
+=========
 
 Company is all where it starts with Akaunting and it ships with multi-company feature.
 
