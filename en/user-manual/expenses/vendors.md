@@ -20,11 +20,13 @@ The following fields are displayed as blank to be filled, some are required and 
 
 - **Name**: Vendor's full name.
 - **Email**: Vendor's email adress.
+- **Tax Number**: Vendor's tax number.
+- **Currency**: Default currency to be used for the vendor.
 - **Phone**: Vendor's phone number.
 - **Website**: Vendor's website.
 - **Address**: Vendor's address
-- **Currency**: Default currency to be used for the vendor
-- **Enabled**: Status of the vendor.
+- **Picture**: Vendor's picture to be used in bills as logo.
 - **Reference**: Any possible reference.
+- **Enabled**: Status of the vendor.
 
 ![vendor form](_images/vendors_form.png)
