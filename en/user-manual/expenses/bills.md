@@ -37,7 +37,7 @@ The following fields are displayed as blank to be filled, some are required and 
 	- **Total**: The final amount of bill, including everything.
 - **Notes**: You can add a custom note to the bill.
 - **Category**: Category of the bill to be used in reports.
-- **Recurring**: Automatically create bills for ongoing jobs. Times=0 means infinite. Don't forget to set the *Cron Command* available at *Settings > General > [Scheduling](https://akaunting.com/docs/user-manual/settings/general)*.
+- **Recurring**: Automatically create bills for ongoing jobs. Times=0 means infinite. Don't forget to set the *Cron Command* available at *Settings > [Scheduling](https://akaunting.com/docs/user-manual/settings/scheduling)*.
 - **Attachment**: You can attach file related to the bill.
 
 ![bills form](_images/bills_form.png)
