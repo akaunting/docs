@@ -63,6 +63,7 @@
     * [Debug](developer-manual/debug)
     * [Modules](developer-manual/modules)
     * [Menu](developer-manual/menu)
+    * [Settings](developer-manual/settings)
     * [Permissions](developer-manual/permissions)
     * [Overriding Output](developer-manual/overriding-output)
     * [RESTful API](developer-manual/restful-api)
