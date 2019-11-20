@@ -1,7 +1,7 @@
 Akaunting Documentation
 ======================
 
- This repository contains the source of the Akaunting documentation, currently accessible at [akaunting.com/docs](https://akaunting.com/docs) .
+ This repository contains the source of the Akaunting documentation, currently accessible at [akaunting.com/docs](https://akaunting.com/docs).
 
 The documentation is structured in folders, exactly as you see them on the main website.
 
