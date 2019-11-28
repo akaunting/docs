@@ -71,6 +71,7 @@ The `module.json` file contains the main information such as name, version, prov
 {
     "alias": "blog",
     "version": "1.0.0",
+    "category": "accounting",
     "active": 1,
     "providers": [
         "Modules\\Blog\\Providers\\Main"
