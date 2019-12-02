@@ -7,21 +7,21 @@ Environment
 -----------
 
 * PHP 7.2 or higher
-* Database (eg: [MySQL, PostgreSQL, SQLite, SQL Server](https://laravel.com/docs/5.4/database))
+* Database (eg: [MySQL, PostgreSQL, SQLite, SQL Server](https://laravel.com/docs/6.x/database))
 * Web Server (eg: Apache, Nginx, IIS)
-* URL Rewrite (mod_rewrite)
+* URL Rewrite (eg: mod_rewrite for Apache)
 
 PHP Extensions
 --------------
- - PDO
- - OpenSSL
+ - BCMath
+ - Ctype
+ - JSON
  - Mbstring
+ - OpenSSL
+ - PDO
  - Tokenizer
  - XML
  - Zip
- - JSON
- - BCMath
- - Ctype
 
 These requirements are provided by almost all hosting companies.
 
