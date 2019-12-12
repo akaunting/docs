@@ -1,7 +1,7 @@
 Customers
 =========
 
-Customers page is located under **Incomes > Customers** menu. On this page you can see all customers, search for any, create a new one, edit the current ones and delete them.
+Customers are required if you want to create invoices. They may also log in to Client Portal and see their balance. Customers page is located under **Incomes > Customers** menu.
 
 The following fields are displayed:
 

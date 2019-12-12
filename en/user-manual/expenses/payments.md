@@ -1,9 +1,7 @@
 Payments
 ========
 
-Payment is a non-billable and paid expense. Check out [this page](https://akaunting.com/docs/faq/bills-vs-payments) for the difference between bills and payments.
-
-Payments page is located under **Expenses > Payments**. On this page you can see all payments, search/filter for any, create a new one, edit the current ones and delete them.
+Payment is a paid expense transaction. It can be an independent record (i.e. food receipt) or attached to a bill. Payments page is located under **Expenses > Payments** menu.
 
 The following fields are displayed:
 

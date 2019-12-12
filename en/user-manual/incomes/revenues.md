@@ -1,9 +1,7 @@
-Revenues	
+Revenues
 ========
 
-Revenue is a non-invoiceable and paid income. You can also record the money deposits from the revenues page. Check out [this page](https://akaunting.com/docs/faq/invoices-vs-revenues) for the difference between invoices and revenues.
-
-Revenues page is located under **Incomes > Revenues** menu. On this page you can see all revenues, search/filter for any, create a new one, edit the current ones and delete them.
+Revenue is a paid income transaction. It can be an independent record (i.e. deposit) or attached to an invoice. Revenues page is located under **Incomes > Revenues** menu.
 
 The following fields are displayed:
 
@@ -33,5 +31,3 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Invoice**: You can attach the payment to an invoice.
 
 ![revenues form](_images/revenues_form.png)
-
-

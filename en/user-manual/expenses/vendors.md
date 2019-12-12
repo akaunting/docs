@@ -1,7 +1,7 @@
 Vendors
 =======
 
-Vendors section is located under **Expenses > Vendors**. On this page you can see all vendors, search for any, create a new one, edit the current ones and delete them.
+Vendors are required if you want to create bills. You can see the balance you owe and filter reports by the vendor. Vendors page is located under **Expenses > Vendors** menu.
 
 The following details are displayed:
 
@@ -29,4 +29,4 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Reference**: Any possible reference.
 - **Enabled**: Status of the vendor.
 
-![vendor form](_images/vendors_form.png)
+![vendors form](_images/vendors_form.png)

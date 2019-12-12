@@ -1,7 +1,7 @@
 Items
 =====
 
-On this page you can see all items, search for any, create a new one, edit the current ones and delete them. Items can be products or services. You can use items when creating invoices and bills to have the price, tax etc fields populated.
+Items can be products or services. You can use items when creating invoices and bills to have the price, tax etc fields populated.
 
 Check out the [Inventory](https://akaunting.com/apps/categories/inventory) apps for stock control and further product management.
 
