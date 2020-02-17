@@ -1,7 +1,7 @@
 Customers
 =========
 
-Customers are required if you want to create invoices. They may also log in to Client Portal and see their balance. Customers page is located under **Incomes > Customers** menu.
+Customers are required if you want to create invoices. They may also log in to Client Portal and see their balance. Customers page is located under **Sales > Customers** menu.
 
 The following fields are displayed:
 

@@ -1,9 +1,9 @@
 Bills
 =====
 
-Bills can be one time or recurring. They indicate what you owe your vendors for the products or services you purchase. Bills page is located under **Expenses > Bills** menu.
+Bills can be one time or recurring. They indicate what you owe your vendors for the products or services you purchase. It is generally not paid yet. You should use bills if you work with tax.
 
-The following fields are displayed:
+Bills page is located under **Purchases > Bills** menu and the following fields are displayed:
 
 - **Number**: The number assigned to the bill, by your vendor.
 - **Vendor**: To whom will pay the bill.

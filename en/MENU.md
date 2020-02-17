@@ -7,14 +7,14 @@
 	* [Toolbar](user-manual/toolbar)
 	* [Companies](user-manual/companies)
 	* [Items](user-manual/items)
-	* Incomes
-		* [Invoices](user-manual/incomes/invoices)
-		* [Revenues](user-manual/incomes/revenues)
-		* [Customers](user-manual/incomes/customers)
-	* Expenses
-		* [Bills](user-manual/expenses/bills)
-		* [Payments](user-manual/expenses/payments)
-		* [Vendors](user-manual/expenses/vendors)
+	* Sales
+		* [Invoices](user-manual/sales/invoices)
+		* [Revenues](user-manual/sales/revenues)
+		* [Customers](user-manual/sales/customers)
+	* Purchases
+		* [Bills](user-manual/purchases/bills)
+		* [Payments](user-manual/purchases/payments)
+		* [Vendors](user-manual/purchases/vendors)
 	* Banking
 		* [Accounts](user-manual/banking/accounts)
 		* [Transfers](user-manual/banking/transfers)

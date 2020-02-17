@@ -1,9 +1,9 @@
 Payments
 ========
 
-Payment is a paid expense transaction. It can be an independent record (i.e. food receipt) or attached to a bill. Payments page is located under **Expenses > Payments** menu.
+Payment is a paid expense transaction. It can be an independent record (i.e. food receipt) or attached to a bill. There are no items within the payments. Tax is not applicable.
 
-The following fields are displayed:
+Payments page is located under **Purchases > Payments** menu and the following fields are displayed:
 
 - **Date**: Paid date.
 - **Amount**: Amount of the payment.

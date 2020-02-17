@@ -9,7 +9,7 @@ For example, an app can connect your online store built with WooCommerce so that
 
 ## API Key
 
-In order to access the App Store from your Akaunting software installation, and install the apps you've purchased, you will need to get your [API Key](https://akaunting.com/profile) and enter it when you get asked for. That is the bridge between the software and site (akaunting.com).
+In order to access the App Store from your Akaunting software installation, and install the apps you've purchased, you will need to get your [API Key](https://akaunting.com/dashboard) and enter it when you get asked for. That is the bridge between the software and site (akaunting.com).
 
 ## Buy
 
@@ -17,7 +17,7 @@ Apps can be free or paid. Paid apps are sold under a yearly subscription plan.
 
 After you click on the *Buy Now* button, you'll be redirected to *akaunting.com* site to make the payment. After the payment proccess is finished, you'll be redirected back to your Akaunting software and you'll be able to install the app within one click, no need for download-upload etc.
 
-You can always cancel your subscription from the [subscriptions](https://akaunting.com/subscriptions) page. In such a case, you can still continue to use the app but can't get further support and updates. 
+You can always cancel your subscription from the [subscriptions](https://akaunting.com/subscriptions) page. In such a case, you can still continue to use the app but can't get further support and updates.
 
 ![apps buy](_images/apps_buy.png)
 

@@ -1,9 +1,9 @@
 Revenues
 ========
 
-Revenue is a paid income transaction. It can be an independent record (i.e. deposit) or attached to an invoice. Revenues page is located under **Incomes > Revenues** menu.
+Revenue is a paid income transaction. It can be an independent record (i.e. deposit) or attached to an invoice. There are no items within the revenues. Tax is not applicable.
 
-The following fields are displayed:
+Revenues page is located under **Sales > Revenues** menu and the following fields are displayed:
 
 - **Date**: Paid date.
 - **Amount**: Amount of the revenue.

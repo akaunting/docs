@@ -26,4 +26,3 @@ The following details are displayed as blank to be filled, some are required and
 - **Chart**: Chart type to be used.
 
 ![reports form](_images/reports_form.png)
-

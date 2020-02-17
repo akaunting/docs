@@ -1,9 +1,9 @@
 Invoices
 ========
 
-Invoices can be one time or recurring. You can send them to customers and start accepting online payments. Invoices page is located under **Incomes > Invoices** menu.
+Invoices can be one time or recurring. You can send them to customers and start accepting online payments. It is generally not paid yet. You should use invoices if you work with tax.
 
-The following fields are displayed:
+Invoices page is located under **Sales > Invoices** menu and the following fields are displayed:
 
 - **Number**: The number assigned to the invoice.
 - **Customer**: Who will pay the invoice.

@@ -3,7 +3,7 @@ Items
 
 Items can be products or services. You can use items when creating invoices and bills to have the price, tax etc fields populated.
 
-Check out the [Inventory](https://akaunting.com/apps/categories/inventory) apps for stock control and further product management.
+Check out the [Inventory](https://akaunting.com/apps/categories/inventory) app for stock control and further product management.
 
 The following fields are displayed:
 

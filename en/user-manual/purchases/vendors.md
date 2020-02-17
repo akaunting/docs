@@ -1,7 +1,7 @@
 Vendors
 =======
 
-Vendors are required if you want to create bills. You can see the balance you owe and filter reports by the vendor. Vendors page is located under **Expenses > Vendors** menu.
+Vendors are required if you want to create bills. You can see the balance you owe and filter reports by the vendor. Vendors page is located under **Purchases > Vendors** menu.
 
 The following details are displayed:
 
