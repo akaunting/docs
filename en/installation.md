@@ -26,7 +26,7 @@ The first step is choosing which language you want to use. This is a good way fo
 
 You need to fill in the fields by adding the database connection details (Hostname, Username, Password and Database Name). 
 
-### Step 3. Company
+### Step 3. Admin
 
 ![akaunting install company](_images/install_company.png)
 
