@@ -49,13 +49,13 @@
 		* [OpenCart](app-manual/ecommerce/opencart)
 		* [WooCommerce](app-manual/ecommerce/woocommerce)
 	* Help Desk
-	* Import
-		* [OFX](app-manual/import/ofx)
+	* Import Export
+		* [OFX](app-manual/import-export/ofx)
 	* Inventory
 	* Notification
 	* Operation
 		* [Custom Fields](app-manual/operation/custom-fields)
-	* Payment Gateway
+	* Payment Method
 	* Payroll
 	* Point of Sale
 	* Time Tracking
