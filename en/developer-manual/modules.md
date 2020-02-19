@@ -70,6 +70,7 @@ The `module.json` file contains the main information such as name, version, prov
 ```
 {
     "alias": "blog",
+    "icon": "fas fa-pen",
     "version": "1.0.0",
     "category": "accounting",
     "active": 1,
@@ -80,8 +81,8 @@ The `module.json` file contains the main information such as name, version, prov
     "files": [],
     "requires": [],
     "reports": [],
-    "settings": [],
-    "widgets": []
+    "widgets": [],
+    "settings": []
 }
 ```
 
