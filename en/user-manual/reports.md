@@ -20,6 +20,9 @@ The following details are displayed as blank to be filled, some are required and
 - **Name**: The name of report.
 - **Type**: There are 5 default types and it can be extended by apps.
 - **Description**: Description to be used in report list.
+
+The following fields maybe available or not depending on the selected report type:
+
 - **Broup By**: You can group report by category, customer, etc. Each report type has its own groups.
 - **Period**: You can set the report in monthly, quarterly, and yearly base.
 - **Basis**: [Here](https://akaunting.com/docs/faq/accrual-vs-cash) you can learn more about cash and accrual accounting.
