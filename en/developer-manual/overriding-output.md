@@ -5,7 +5,7 @@ Lets say you're developing a module/app that adds/removes functionality to/from 
 
 First of all, create and install a [module](https://akaunting.com/docs/developer-manual/modules).
 
-Then add the folowing code into the `boot` method of your `ServiceProvider`. [Here](https://laravel.com/docs/5.4/views#view-composers) you can learn more about view composers.
+Then add the folowing code into the `boot` method of your `ServiceProvider`. [Here](https://laravel.com/docs/views#view-composers) you can learn more about view composers.
 
 ```
 View::composer(
@@ -44,6 +44,6 @@ class Customers
 }
 ```
 
-Finally, create a [Blade](https://laravel.com/docs/5.4/blade) template file `modules/FooBar/Resources/views/customers/create.blade.php` with your custom output. The original one is located in `resources/views/incomes/customers/create.blade.php` file.
+Finally, create a [Blade](https://laravel.com/docs/blade) template file `modules/FooBar/Resources/views/customers/create.blade.php` with your custom output. The original one is located in `resources/views/incomes/customers/create.blade.php` file.
 
-If you also want to modify the data stored in the database, then you can create an Observer to listen Eloquent's [events](https://laravel.com/docs/5.4/eloquent#events).
+If you also want to modify the data stored in the database, then you can create an Observer to listen Eloquent's [events](https://laravel.com/docs/eloquent#events).

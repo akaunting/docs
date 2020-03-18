@@ -20,7 +20,7 @@ The custom fields app allows you to add unlimited fields anywhere.
 - Time
 - Date & Time
 
-**Validation**: You can enter any validation rule available here [here](https://laravel.com/docs/5.4/validation#available-validation-rules). For example, *integer* if you want to be able to enter only numbers.
+**Validation**: You can enter any validation rule available here [here](https://laravel.com/docs/validation#available-validation-rules). For example, *integer* if you want to be able to enter only numbers.
 
 **Value**: The default value or values list based on the selected type.
 
