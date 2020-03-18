@@ -46,4 +46,4 @@ class Customers
 
 Finally, create a [Blade](https://laravel.com/docs/blade) template file `modules/FooBar/Resources/views/customers/create.blade.php` with your custom output. The original one is located in `resources/views/incomes/customers/create.blade.php` file.
 
-If you also want to modify the data stored in the database, then you can create an Observer to listen Eloquent's [events](https://laravel.com/docs/eloquent#events).
+If you also want to modify the data stored in the database, then you can create an Observer to [hook models](https://akaunting.com/docs/developer-manual/hooking-models).

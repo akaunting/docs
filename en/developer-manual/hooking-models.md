@@ -53,3 +53,5 @@ class Item extends Observer
 }
 
 ```
+
+That's all you need to do to hook a model.
