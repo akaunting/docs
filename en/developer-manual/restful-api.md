@@ -21,7 +21,7 @@ routes/api.php
 
 You may also add API endpoints to your module:
 
-```
+```php
 $api = app('Dingo\Api\Routing\Router');
 $api->get('products', 'Catalog/Products@index');
 ```

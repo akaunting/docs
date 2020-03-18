@@ -13,7 +13,7 @@ Furthermore, all these permissions and roles are also applicable to RESTful API 
 
 It's so simple to check for roles and permissions:
 
-```
+```php
 $user->hasRole('admin');
 $user->hasRole('customer');
 $user->can('update-auth-users');

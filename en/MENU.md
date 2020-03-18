@@ -66,5 +66,6 @@
     * [Settings](developer-manual/settings)
     * [Permissions](developer-manual/permissions)
     * [Overriding Output](developer-manual/overriding-output)
+    * [Hooking Models](developer-manual/hooking-models)
     * [RESTful API](developer-manual/restful-api)
     * [Reverse Proxy](developer-manual/reverse-proxy)

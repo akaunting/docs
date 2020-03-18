@@ -9,7 +9,7 @@ We've tried the best to ease the life of developers. Mostly, developers just wan
 
 All you have to do is to fill the `settings` array there.
 
-```
+```json
 "settings": [
     {
         "type": "textGroup",
@@ -47,7 +47,7 @@ If your settings page needs a little bit more actions then you can listen to the
 
 Lets firstly create the listener:
 
-```
+```php
 <?php
 
 namespace Modules\Blog\Listeners;
@@ -76,7 +76,7 @@ class ShowSetting
 
 Then add your handler/listener into the `boot` method of your service provider:
 
-```
+```php
 $this->app['events']->listen(SettingShowing::class, ShowSetting::class);
 ```
 

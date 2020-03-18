@@ -7,7 +7,7 @@ First of all, create and install a [module](https://akaunting.com/docs/developer
 
 Then add the folowing code into the `boot` method of your `ServiceProvider`. [Here](https://laravel.com/docs/views#view-composers) you can learn more about view composers.
 
-```
+```php
 View::composer(
     ['incomes.customers.create'], 'Modules\FooBar\Http\ViewComposers\Customers'
 );
@@ -15,7 +15,7 @@ View::composer(
 
 Then create the view composer file:
 
-```
+```php
 <?php
 
 namespace Modules\FooBar\Http\ViewComposers;

@@ -17,7 +17,7 @@ After enabling, all you have to do is to refresh any page in your Akaunting and 
 
 You can also send messages to the debug bar:
 
-```
+```php
 Debugbar::info($object);
 Debugbar::error('Error!');
 Debugbar::warning('Watch out…');

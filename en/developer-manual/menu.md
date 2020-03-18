@@ -7,7 +7,7 @@ You  may want to extend the menu by adding your own pages. You should listen to 
 
 Lets firstly create the listener:
 
-```
+```php
 <?php
 
 namespace Modules\Blog\Listeners;
@@ -41,7 +41,7 @@ class AddMenu
 
 Then add your listener into the `boot` method of your service provider:
 
-```
+```php
 $this->app['events']->listen(AdminCreated::class, AddMenu::class);
 ```
 

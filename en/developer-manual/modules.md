@@ -67,7 +67,7 @@ Alias is the unique name of the module as is used everywhere into Akaunting.
 
 The `module.json` file contains the main information such as name, version, providers etc about your module.
 
-```
+```json
 {
     "alias": "blog",
     "icon": "fas fa-pen",
