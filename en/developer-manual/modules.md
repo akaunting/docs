@@ -3,7 +3,7 @@ Modules
 
 Akaunting ships with core accounting tools needed to manage money. It also has a module structure so that you could extend it. We use our own [akaunting/module](https://github.com/akaunting/module) package as builder.
 
-A module is like a Laravel package, it has some routes, views, controllers, and models. While technically we call it `Module`, we name it `App` in the front-end for the end-user as that's what they are familiar to.
+A module is like a Laravel package, it has some routes, views, controllers, and models. While technically we call it `Module`, we name it `App` in the UI for the end-user as that's what they are familiar to.
 
 ### Folder Structure
 
@@ -19,7 +19,7 @@ modules/
       ├── Console/
       ├── Database/
           ├── Migrations/
-          ├── Seeders/
+          ├── Seeds/
       ├── Http/
           ├── Controllers/
           ├── Requests/
