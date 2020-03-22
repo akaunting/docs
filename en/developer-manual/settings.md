@@ -18,7 +18,8 @@ All you have to do is to fill the `settings` array there.
         "icon": "font",
         "attributes": {
             "required": "required"
-        }
+        },
+        "rules": "required|string"
     },
     {
         "type": "textGroup",
@@ -27,7 +28,8 @@ All you have to do is to fill the `settings` array there.
         "icon": "user",
         "attributes": {
             "required": "required"
-        }
+        },
+        "rules": "nullable|string"
     },
     {
         "type": "textareaGroup",
@@ -36,7 +38,8 @@ All you have to do is to fill the `settings` array there.
         "icon": "key",
         "attributes": {
             "required": "required"
-        }
+        },
+        "rules": "nullable|string"
     }
 ]
 ```
@@ -67,7 +70,7 @@ class ShowSetting
         $event->modules->settings['blog'] = [
             'name' => trans('blog::general.name'),
             'description' => trans('blog::general.description'),
-            'url' => 'settings/blog',
+            'url' => route('blog.settings.edit'),
             'icon' => 'fas fa-edit',
         ];
     }
