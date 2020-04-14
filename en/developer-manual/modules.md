@@ -3,11 +3,11 @@ Modules
 
 Akaunting ships with core accounting tools needed to manage money. It also has a module structure so that you could extend it. We use our own [akaunting/module](https://github.com/akaunting/module) package as builder.
 
-A module is like a Laravel package, it has some routes, views, controllers, and models. While technically we call it `Module`, we name it `App` in the UI for the end-user as that's what they are familiar to.
+A module is like a Laravel package, it has some routes, views, controllers, and models. While technically we call it `Module`, we name it `App` in the UI for the end-user as that's what they are familiar with.
 
 ### Folder Structure
 
-As you can see from the example bellow, the structure of a module is very similar to the core Laravel's one.
+As you can see from the example bellow, the structure of a module is very similar to a basic Laravel app.
 
 ```
 app/
@@ -61,11 +61,11 @@ php artisan module:install blog 1
 
 `blog` is the **alias** of the module and `1` is the **company id** that you want to install the module. [Here](https://akaunting.com/docs/user-manual/companies) you can find more about companies in Akaunting.
 
-Alias is the unique name of the module as is used everywhere into Akaunting.
+Alias is the unique name of the module as is used everywhere in Akaunting.
 
 ### module.json file
 
-The `module.json` file contains the main information such as name, version, providers etc about your module.
+The `module.json` file contains the main information about your module such as name, version, providers, etc..
 
 ```json
 {
@@ -86,11 +86,11 @@ The `module.json` file contains the main information such as name, version, prov
 }
 ```
 
-You can check the **Offline Payments** module built-in Akaunting as a live example.
+You can check the **Offline Payments** module built into the Akaunting core as a live example.
 
 ### Showing to the user
 
-If your module has pages that needs to be shown in the left sidebar then you can check [this](https://akaunting.com/docs/developer-manual/menu) article to learn more about.
+If your module has pages that need to be shown in the left sidebar, you can check [this](https://akaunting.com/docs/developer-manual/menu) article to learn more.
 
 ### More
 
