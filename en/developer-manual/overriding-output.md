@@ -9,7 +9,7 @@ Then add the folowing code into the `boot` method of your `ServiceProvider`. [He
 
 ```php
 View::composer(
-    ['incomes.customers.create'], 'Modules\FooBar\Http\ViewComposers\Customers'
+    ['incomes.customers.create'], 'Modules\MyBlog\Http\ViewComposers\Customers'
 );
 ```
 
@@ -18,7 +18,7 @@ Then create the view composer file:
 ```php
 <?php
 
-namespace Modules\FooBar\Http\ViewComposers;
+namespace Modules\MyBlog\Http\ViewComposers;
 
 use Illuminate\View\View;
 
@@ -33,17 +33,17 @@ class Customers
     public function compose(View $view)
     {
         // Override just the 'content' section
-        $view->getFactory()->startSection('content', view('foobar::customers.create'));
+        $view->getFactory()->startSection('content', view('my-blog::customers.create'));
 
         // Override the whole file
-        $view->setPath(view('foobar::customers.create')->getPath());
+        $view->setPath(view('my-blog::customers.create')->getPath());
 
         // Push to a stack
-        $view->getFactory()->startPush('scripts', view('foobar::script'));
+        $view->getFactory()->startPush('scripts', view('my-blog::script'));
     }
 }
 ```
 
-Finally, create a [Blade](https://laravel.com/docs/blade) template file `modules/FooBar/Resources/views/customers/create.blade.php` with your custom output. The original one is located in `resources/views/incomes/customers/create.blade.php` file.
+Finally, create a [Blade](https://laravel.com/docs/blade) template file `modules/MyBlog/Resources/views/customers/create.blade.php` with your custom output. The original one is located in `resources/views/incomes/customers/create.blade.php` file.
 
 If you also want to modify the data stored in the database, then you can create an Observer to [hook models](https://akaunting.com/docs/developer-manual/hooking-models).

@@ -7,7 +7,7 @@ A module is like a Laravel package, it has some routes, views, controllers, and 
 
 ### Folder Structure
 
-As you can see from the example bellow, the structure of a module is very similar to a basic Laravel app.
+As you can see from the example below, the structure of a module is very similar to a basic Laravel app.
 
 ```
 app/
@@ -15,7 +15,7 @@ bootstrap/
 config/
 database/
 modules/
-  ├── Blog/
+  ├── MyBlog/
       ├── Console/
       ├── Database/
           ├── Migrations/
@@ -49,17 +49,17 @@ vendor/
 
 There are loads of Artisan commands built-in the module package. For example, let's see how to create a new module:
 
-```
-php artisan module:make blog
+```bash
+php artisan module:make my-blog
 ```
 
 This will create all files and folders shown in the above example. Now lets install the module using the following command:
 
-```
-php artisan module:install blog 1
+```bash
+php artisan module:install my-blog 1
 ```
 
-`blog` is the **alias** of the module and `1` is the **company id** that you want to install the module. [Here](https://akaunting.com/docs/user-manual/companies) you can find more about companies in Akaunting.
+`my-blog` is the **alias** of the module and `1` is the **company id** that you want to install the module. [Here](https://akaunting.com/docs/user-manual/companies) you can find more about companies in Akaunting.
 
 Alias is the unique name of the module as is used everywhere in Akaunting.
 
@@ -69,13 +69,13 @@ The `module.json` file contains the main information about your module such as n
 
 ```json
 {
-    "alias": "blog",
+    "alias": "my-blog",
     "icon": "fas fa-pen",
     "version": "1.0.0",
     "category": "accounting",
     "active": 1,
     "providers": [
-        "Modules\\Blog\\Providers\\Main"
+        "Modules\\MyBlog\\Providers\\Main"
     ],
     "aliases": {},
     "files": [],

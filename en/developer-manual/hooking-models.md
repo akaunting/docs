@@ -16,7 +16,7 @@ use App\Models\Common\Item;
 
     public function boot()
     {
-        Item::observe('Modules\FooBar\Observers\Common\Item');
+        Item::observe('Modules\MyBlog\Observers\Common\Item');
     }
 
 ...
@@ -27,11 +27,11 @@ Then create the observer file:
 ```php
 <?php
 
-namespace Modules\FooBar\Observers\Common;
+namespace Modules\MyBlog\Observers\Common;
 
 use App\Abstracts\Observer;
 use App\Models\Common\Item;
-use Modules\FooBar\Models\Common\Item as FooBarItem;
+use Modules\MyBlog\Models\Post;
 
 class Item extends Observer
 {
@@ -44,11 +44,11 @@ class Item extends Observer
      */
     public function updated(Item $item)
     {
-        $foobar_item = FooBarItem::where('item_id', $item->id)->first();
+        $post = Post::where('item_id', $item->id)->first();
 
-        $foobar_item->opening_stock = $item->quantity;
+        $post->opening_stock = $item->quantity;
 
-        $foobar_item->update();
+        $post->update();
     }
 }
 

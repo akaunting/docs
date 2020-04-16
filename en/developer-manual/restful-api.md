@@ -30,7 +30,7 @@ Check out the documentation of [Dingo API](https://github.com/dingo/api/wiki/Cre
 
 ### Transformers
 
-Transformers allow you to easily and consistently transform objects into an array. You can find the transforems of Akaunting in the following directory:
+Transformers allow you to easily and consistently transform objects into an array. You can find the transformers of Akaunting in the following directory:
 
 ```
 app/Transformers

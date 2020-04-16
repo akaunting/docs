@@ -7,14 +7,14 @@ Akaunting ships with a centralized settings page where modules can add their own
 
 We've tried the best to ease the life of developers. Mostly, developers just want to add just some inputs on the settings page. In such a case, you can add them to the `module.json` file and Akaunting will display your module under the Settings page, nothing else is required.
 
-All you have to do is to fill the `settings` array there.
+All you have to do is to fill the `settings` array like the following:
 
 ```json
 "settings": [
     {
         "type": "textGroup",
         "name": "title",
-        "title": "blog::general.title",
+        "title": "my-blog::general.title",
         "icon": "font",
         "attributes": {
             "required": "required"
@@ -24,21 +24,17 @@ All you have to do is to fill the `settings` array there.
     {
         "type": "textGroup",
         "name": "header",
-        "title": "blog::general.header",
+        "title": "my-blog::general.header",
         "icon": "user",
-        "attributes": {
-            "required": "required"
-        },
+        "attributes": {},
         "rules": "nullable|string"
     },
     {
         "type": "textareaGroup",
         "name": "meta_description",
-        "title": "blog::general.meta_description",
+        "title": "my-blog::general.meta_description",
         "icon": "key",
-        "attributes": {
-            "required": "required"
-        },
+        "attributes": {},
         "rules": "nullable|string"
     }
 ]
@@ -53,7 +49,7 @@ Lets firstly create the listener:
 ```php
 <?php
 
-namespace Modules\Blog\Listeners;
+namespace Modules\MyBlog\Listeners;
 
 use App\Events\Module\SettingShowing as Event;
 
@@ -67,20 +63,22 @@ class ShowSetting
      */
     public function handle(Event $event)
     {
-        $event->modules->settings['blog'] = [
-            'name' => trans('blog::general.name'),
-            'description' => trans('blog::general.description'),
-            'url' => route('blog.settings.edit'),
+        $event->modules->settings['my-blog'] = [
+            'name' => trans('my-blog::general.name'),
+            'description' => trans('my-blog::general.description'),
+            'url' => route('my-blog.settings.edit'),
             'icon' => 'fas fa-edit',
         ];
     }
 }
 ```
 
-Then add your handler/listener into the `boot` method of your service provider:
+Then add your listener into the `$listen` array of your `Modules\MyBlog\Providers\Event` service provider:
 
 ```php
-$this->app['events']->listen(SettingShowing::class, ShowSetting::class);
+'App\Events\Module\SettingShowing' => [
+    'Modules\MyBlog\Listeners\ShowSetting',
+],
 ```
 
 You can check the built-in Akaunting modules as live examples. **Offline Payments** module ships with a custom settings page and **PayPal Standard** module uses the module.json file.
