@@ -1,7 +1,7 @@
 Overriding Output
 =================
 
-Lets say you're developing a module/app that adds/removes functionality to/from Akaunting core and you want to override the output. However, in order to keep Akaunting up-to-date, you don't want to, and shouldn't, change/hack the core files. As an example, lets see how to remove the `Phone` field from the customer creation form without changing the core files.
+Let's say you're developing a module/app that adds/removes functionality to/from Akaunting core and you want to override the output. However, in order to keep Akaunting up-to-date, you don't want to, and shouldn't, change/hack the core files. As an example, let's see how to remove the `Phone` field from the customer creation form without changing the core files.
 
 First of all, create and install a [module](https://akaunting.com/docs/developer-manual/modules).
 

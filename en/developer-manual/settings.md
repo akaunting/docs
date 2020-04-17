@@ -44,7 +44,7 @@ All you have to do is to fill the `settings` array like the following:
 
 If your settings page needs a little bit more actions then you can listen to the `SettingShowing` event and create your own route, controller, and view files.
 
-Lets firstly create the listener:
+Let's firstly create the listener:
 
 ```php
 <?php

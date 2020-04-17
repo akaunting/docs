@@ -53,7 +53,7 @@ There are loads of Artisan commands built-in the module package. For example, le
 php artisan module:make my-blog
 ```
 
-This will create all files and folders shown in the above example. Now lets install the module using the following command:
+This will create all files and folders shown in the above example. Now let's install the module using the following command:
 
 ```bash
 php artisan module:install my-blog 1

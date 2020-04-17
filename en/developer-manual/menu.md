@@ -5,7 +5,7 @@ The left sidebar of Akaunting contains the company switcher and menu. We use our
 
 You may want to extend the menu by adding your own pages. You should listen to the `AdminCreated` event for admin and/or `PortalCreated` for client sides.
 
-Lets firstly create the listener:
+Let's firstly create the listener:
 
 ```php
 <?php

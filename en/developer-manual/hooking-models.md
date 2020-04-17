@@ -1,9 +1,9 @@
 Hooking Models
 ==============
 
-Lets say you're developing a module/app that adds functionality to Akaunting. However, in order to keep Akaunting up-to-date, you don't want to, and shouldn't, change/hack the core files.
+Let's say you're developing a module/app that adds functionality to Akaunting. However, in order to keep Akaunting up-to-date, you don't want to, and shouldn't, change/hack the core files.
 
-Eloquent fires [several events](https://laravel.com/docs/eloquent#events), allowing you to hook into lots of points in a model's lifecycle. You can listen these events using [Observers](https://laravel.com/docs/eloquent#observers) feature of Eloquent. Lets make an example for modules.
+Eloquent fires [several events](https://laravel.com/docs/eloquent#events), allowing you to hook into lots of points in a model's lifecycle. You can listen these events using [Observers](https://laravel.com/docs/eloquent#observers) feature of Eloquent. Let's make an example for modules.
 
 First of all, create and install a [module](https://akaunting.com/docs/developer-manual/modules).
 
