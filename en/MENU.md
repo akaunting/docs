@@ -69,4 +69,5 @@
     * [Overriding Output](developer-manual/overriding-output)
     * [Hooking Models](developer-manual/hooking-models)
     * [RESTful API](developer-manual/restful-api)
+    * [Adding Docs](developer-manual/adding-docs)
     * [Reverse Proxy](developer-manual/reverse-proxy)
