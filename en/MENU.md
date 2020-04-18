@@ -56,6 +56,7 @@
 	* Operation
 		* [Custom Fields](app-manual/operation/custom-fields)
 	* Payment Method
+		* [Square](app-manual/payment-method/square)
 	* Payroll
 	* Point of Sale
 	* Time Tracking
