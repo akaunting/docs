@@ -37,4 +37,4 @@ In this section, you can update payment mode visibility.
 
 ### Sync
 
-In this section, you can manage the sync functionality of the Square App. From here, you can manually sync your payments from Square to Akaunting invoices.
+In this section, you can manage the sync functionality of the Square App. From here, you can import/sync your payment received from Square Reader, POS, etc. and convert to Akaunting invoices. You can sync the current ones manually, new ones will be synced automatically.
