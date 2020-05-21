@@ -3,7 +3,7 @@ WooCommerce
 
 This app will sync your current and future WooCommerce data (products, customers, orders) with Akaunting.
 
-Keep in mind that both WordPress [plugin](https://wordpress.org/plugins/akaunting-for-woocommerce/) and Akaunting [app](https://akaunting.com/apps/woocommerce) are required in order to have the 2 system talk to each other.
+Keep in mind that both WordPress [plugin](https://wordpress.org/plugins/akaunting-for-woocommerce) and Akaunting [app](https://akaunting.com/apps/woocommerce) are required in order to have the 2 system talk to each other.
 
 ### WordPress Plugin Settings
 
