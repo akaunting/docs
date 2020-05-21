@@ -1,27 +1,27 @@
 WooCommerce
 ===========
 
-This app will sync your current and future WooCommerce data (products, customers, orders) with Akaunting.
+This app will sync your current and future WooCommerce data (categories, products (items), customers, tax rates, orders) with Akaunting.
 
 Keep in mind that both WordPress [plugin](https://wordpress.org/plugins/akaunting-for-woocommerce) and Akaunting [app](https://akaunting.com/apps/woocommerce) are required in order to have the 2 system talk to each other.
 
-### WordPress Plugin Settings
+### 1) WordPress Plugin Settings
 
 **Akaunting URL**: The full path of your Akaunting installation. If you're using our cloud service, then it's https://app.akaunting.com
 
-![wordpress plugin settings](_images/woocommerce-settings-1.png)
+![wordpress plugin settings 1](_images/woocommerce-settings-1.png)
 
-### WooCommerce REST API Keys
+### 2) WooCommerce REST API Keys
 
 After entering the Akaunting URL, you should get the WooCommerce API keys. Make sure you set the **Permissions** as Read/Write.
 
-![wordpress plugin settings](_images/woocommerce-settings-2.png)
+![wordpress plugin settings 2](_images/woocommerce-settings-2.png)
 
-![wordpress plugin settings](_images/woocommerce-settings-3.png)
+![wordpress plugin settings 3](_images/woocommerce-settings-3.png)
 
-### Akaunting App Settings
+### 3) Akaunting App Settings
 
-Akaunting app will get and send data automatically between Akaunting and WooCommerce. In order to get the current data after first installation, you can click on the Sync with WooCommerce button. It's not required for future data (categories, products (items), customers, tax rates, orders).
+Akaunting app will get and send data automatically between Akaunting and WooCommerce. In order to get the current data after first installation, you can click on the Sync with WooCommerce button. It's not required for future data.
 
 **WordPress URL**: The full path of your WordPress installation without wp-admin or wp-login parts. For example: https://my-wordpress-domain.com
 
