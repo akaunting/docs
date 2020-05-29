@@ -13,7 +13,7 @@ Keep in mind that both WordPress [plugin](https://wordpress.org/plugins/akauntin
 
 ### 2) WooCommerce REST API Keys
 
-After entering the Akaunting URL, you should get the WooCommerce API keys. Make sure you set the **Permissions** as Read/Write.
+After entering the Akaunting URL, you should get the WooCommerce API keys. Make sure you set the **Permissions** as Read/Write. [Here](https://woocommerce.github.io/woocommerce-rest-api-docs/?php#rest-api-keys) you can find more information.
 
 ![wordpress plugin settings 2](_images/woocommerce-settings-2.png)
 
@@ -40,3 +40,11 @@ Akaunting app will get and send data automatically between Akaunting and WooComm
 **2-way Delete**: Select whether to sync the *delete* action between Akaunting and WooCommerce for categories, products (items), tax rates, and orders. In other words, when a product is deleted in WooCommerce, it will also be deleted in Akaunting, automatically. Same for vice-versa.
 
 ![akaunting app settings](_images/woocommerce-settings-4.png)
+
+### Common Issues
+
+Here there are some solutions based on the common issues faced by other users.
+
+#### 401 Unauthorized
+
+Your API keys or signature is wrong. It may also be caused by your server settings. Check out [this tutorial](https://github.com/woocommerce/woocommerce/wiki/Getting-started-with-the-REST-API#401-unauthorized) for a solution.
