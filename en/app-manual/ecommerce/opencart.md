@@ -21,7 +21,7 @@ After installation, go to *Extensions > Extensions* page and filter Modules. In 
 
 Akaunting app will get and send data automatically between Akaunting and OpenCart. In order to get the current data after first installation, you can click on the *Sync Current Data* button. It's not required for future data.
 
-**OpenCart URL**: The full path of your OpenCart installation without wp-admin or wp-login parts. For example: https://my-opencart-domain.com
+**OpenCart URL**: The full path of your OpenCart installation without "admin" part. For example: https://my-opencart-domain.com
 
 **API Key**: Generated in the previous step
 

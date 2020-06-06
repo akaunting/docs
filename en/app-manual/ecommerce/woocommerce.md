@@ -23,7 +23,7 @@ After entering the Akaunting URL, you should get the WooCommerce API keys. Make 
 
 Akaunting app will get and send data automatically between Akaunting and WooCommerce. In order to get the current data after first installation, you can click on the *Sync Current Data* button. It's not required for future data.
 
-**WordPress URL**: The full path of your WordPress installation without wp-admin or wp-login parts. For example: https://my-wordpress-domain.com
+**WordPress URL**: The full path of your WordPress installation without "wp-admin" or "wp-login" parts. For example: https://my-wordpress-domain.com
 
 **WooCommerce Consumer Key**: Generated in the previous step
 
