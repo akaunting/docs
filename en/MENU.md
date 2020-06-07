@@ -39,6 +39,7 @@
     * [Accrual vs Cash](faq/accrual-vs-cash)
     * [Invoices vs Revenues](faq/invoices-vs-revenues)
     * [Bills vs Payments](faq/bills-vs-payments)
+    * [Shipping Cost](faq/shipping-cost)
 * App Manual
 	* Accounting
 		* [Double-Entry](app-manual/accounting/double-entry)
