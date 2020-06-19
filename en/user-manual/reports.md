@@ -23,7 +23,7 @@ The following details are displayed as blank to be filled, some are required and
 
 The following fields maybe available or not depending on the selected report type:
 
-- **Broup By**: You can group report by category, customer, etc. Each report type has its own groups.
+- **Group By**: You can group report by category, customer, etc. Each report type has its own groups.
 - **Period**: You can set the report in monthly, quarterly, and yearly base.
 - **Basis**: [Here](https://akaunting.com/docs/faq/accrual-vs-cash) you can learn more about cash and accrual accounting.
 - **Chart**: Chart type to be used.
