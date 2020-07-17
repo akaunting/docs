@@ -44,7 +44,7 @@ All you have to do is to fill the `settings` array like the following:
 
 If your settings page needs a little bit more actions then you can listen to the `SettingShowing` event and create your own route, controller, and view files.
 
-Let's firstly create the listener:
+Here it is a listener example:
 
 ```php
 <?php
@@ -53,7 +53,7 @@ namespace Modules\MyBlog\Listeners;
 
 use App\Events\Module\SettingShowing as Event;
 
-class ShowSetting
+class ShowInSettingsPage
 {
     /**
      * Handle the event.
@@ -71,14 +71,6 @@ class ShowSetting
         ];
     }
 }
-```
-
-Then add your listener into the `$listen` array of your `Modules\MyBlog\Providers\Event` service provider:
-
-```php
-'App\Events\Module\SettingShowing' => [
-    'Modules\MyBlog\Listeners\ShowSetting',
-],
 ```
 
 You can check the built-in Akaunting modules as live examples. **Offline Payments** module ships with a custom settings page and **PayPal Standard** module uses the module.json file.
