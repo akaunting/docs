@@ -14,7 +14,7 @@ namespace Modules\MyBlog\Listeners;
 
 use App\Events\Menu\AdminCreated as Event;
 
-class AddMenu
+class AddToAdminMenu
 {
     /**
      * Handle the event.
@@ -26,25 +26,17 @@ class AddMenu
     {
         // Add child to existing menu item
         $item = $event->menu->whereTitle(trans_choice('general.sales', 2));
-        $item->url('my-blog/posts', 'Posts', 4, ['icon' => '']);
+        $item->route('my-blog.posts.index', trans('my-blog::general.posts'), [], 4, ['icon' => '']);
 
         // Add new menu item
         $event->menu->add([
-            'url' => 'my-blog/posts',
-            'title' => 'Posts',
+            'route' => 'my-blog.posts.index',
+            'title' => trans('my-blog::general.posts'),
             'icon' => 'fas fa-pen',
             'order' => 5,
         ]);
     }
 }
-```
-
-Then add your listener into the `$listen` array of your `Modules\MyBlog\Providers\Event` service provider:
-
-```php
-'App\Events\Menu\AdminCreated' => [
-    'Modules\MyBlog\Listeners\AddMenu',
-],
 ```
 
 [Menu](https://github.com/akaunting/menu/wiki) documentation can help to understand the system, especially about how to find a menu item, add child ones, and create dropdown menus.
