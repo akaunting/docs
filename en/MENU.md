@@ -40,6 +40,7 @@
     * [Invoices vs Revenues](faq/invoices-vs-revenues)
     * [Bills vs Payments](faq/bills-vs-payments)
     * [Shipping Cost](faq/shipping-cost)
+    * [Not able to install apps](faq/not-able-to-install-apps)
 * App Manual
 	* Accounting
 		* [Double-Entry](app-manual/accounting/double-entry)
