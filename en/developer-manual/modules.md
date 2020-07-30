@@ -94,4 +94,4 @@ If your module has pages that need to be shown in the left sidebar, you can chec
 
 ### More
 
-[Module](https://github.com/akaunting/module/wiki) documentation can help to understand the how the system works.
+[Module](https://github.com/akaunting/module/wiki) documentation can help to understand how the system works.
