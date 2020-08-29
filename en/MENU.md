@@ -43,6 +43,7 @@
     * [Not able to install apps](faq/not-able-to-install-apps)
 * App Manual
 	* Accounting
+		* [Credit/Debit Notes](app-manual/accounting/credit-debit-notes)
 		* [Double-Entry](app-manual/accounting/double-entry)
 	* Analytics
 	* CRM
