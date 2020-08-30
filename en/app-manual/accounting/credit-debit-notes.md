@@ -8,12 +8,13 @@ Credit/Debit Notes
 - Use credits in an invoice
 - Make a refund
 - Issue debit notes
+- Receive a refund
 
 ## Working with credit notes
 
 A credit note is a commercial document issued by a vendor to a customer when there has been an error in an invoice, such as incorrect amount, or when a customer wishes to change the order or return some goods.
 
-### Issue a credit note
+### Issuing a credit note
 
 After installing the app, a new Credit Notes menu item will be added under the Sales section. Here you can issue new credit notes.
 
@@ -67,7 +68,7 @@ You can customize credit note's settings using the standard Akaunting's settings
 
 A debit note is a commercial document issued by a customer to a vendor to indicate or request a return of funds due to incorrect or damaged goods received or purchase cancellation.
 
-### Issue a debit note
+### Issuing a debit note
 
 After installing the app, a new Debit Notes menu item will be added under the Purchases section. Here you can issue new debit notes.
 
@@ -78,6 +79,14 @@ Also, you can quickly create a debit note right from a bill.
 ![Create debit notes from a bill](_images/credit-debit-notes-create-debit-note-from-bill.png)
 
 In this case all debit note's fields will be prefilled with the data from the bill.
+
+### Receiving a refund
+ 
+It is possible to receive a refund from a vendor after a debit note is marked as sent. You can use any of available accounts and payment methods to do this.
+
+![Receive refund menu item](_images/credit-debit-notes-receive-refund-menu-item.png)
+
+![Receive refund modal](_images/credit-debit-notes-receive-refund-modal.png)
 
 ### Settings
 
