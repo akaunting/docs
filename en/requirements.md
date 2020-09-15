@@ -10,6 +10,8 @@ Environment
 * Database (eg: [MySQL, PostgreSQL, SQLite, SQL Server](https://laravel.com/docs/6.x/database))
 * Web Server (eg: Apache, Nginx, IIS)
 * URL Rewrite (eg: mod_rewrite for Apache)
+* Composer (if building from source)
+* npm (if building from source)
 
 PHP Extensions
 --------------
@@ -22,6 +24,8 @@ PHP Extensions
  - Tokenizer
  - XML
  - Zip
+ - gd
+ - mysql
 
 These requirements are provided by almost all hosting companies.
 
