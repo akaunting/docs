@@ -15,9 +15,9 @@ In order to access the App Store from your Akaunting software installation, and 
 
 Apps can be free or paid. Paid apps are sold under a yearly subscription plan.
 
-After you click on the *Buy Now* button, you'll be redirected to *akaunting.com* site to make the payment. After the payment proccess is finished, you'll be redirected back to your Akaunting software and you'll be able to install the app within one click, no need for download-upload etc.
+After you click on the *Buy Now* button, you'll be redirected to *akaunting.com* site to make the payment. After the payment process is finished, you'll be redirected back to your Akaunting installation and you'll be able to install the app within one click, no need for download-upload etc. You can always access their files from *modules* directory.
 
-You can always cancel your subscription from the [subscriptions](https://akaunting.com/subscriptions) page. In such a case, you can still continue to use the app but can't get further support and updates.
+You can always cancel your subscription from the [subscriptions](https://akaunting.com/subscriptions) page. In such a case, you can still continue to use the app but at the end of subscription period, you won't get support and updates.
 
 ![apps buy](_images/apps_buy.png)
 
