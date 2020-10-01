@@ -11,7 +11,7 @@ In the home page of reports, you can see the report name, it's total amount, des
 
 ### View Report
 
-If you click the report name/icon you'll be redirected to the report view page wher you can see the data, filter them, print, and export them.
+If you click the report name/icon you'll be redirected to the report view page where you can see the data, filter them, print, and export them.
 
 ## New Reports
 
