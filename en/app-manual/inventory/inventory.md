@@ -3,11 +3,17 @@ Inventory
 
 Inventory is an app for you to do advanced inventory management. You can take control of your inventory with features like composite items, item groups, packages, shipments and bulk adjustments.
 
-![Inventory](_images/inventory.JPG)
+![Inventory](_images/items.jpg)
 
 ### Items
 
 In Items section, you can add new items, import your ready-to-use lists or export your items lists.
+
+### Options
+
+In Options section, you can add, manage options which describe your items better.
+
+![Options](_images/inventory-options.gif)
 
 ### Groups
 
@@ -17,18 +23,13 @@ For example, if you have a fashion business, you may have groups like T-shirts, 
 
 ![Groups](_images/inventory-groups.gif)
 
-### Options
-
-In Options section, you can add, manage options which describe your items better.
-
-![Options](_images/inventory-options.gif)
-
-### Warehouse
+### Warehouses
 
 In this section, you can add, manage warehouses you work with. You can also see their details, items which are coming from them and edit them.
 
-![Warehouses](_images/inventory-warehouse.gif)
+![Warehouses](_images/inventory-warehouses.gif)
 
 ### Histories
 
 In Histories section, you can see your item history, which warehouse they are coming from and their quantity.
+
