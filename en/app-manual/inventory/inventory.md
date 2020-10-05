@@ -15,19 +15,19 @@ In Groups section, you can manage your items that can be considered under the sa
 
 For example, if you have a fashion business, you may have groups like T-shirts, Jeans, Jackets and so on. You can group them under this section and add options such as like size, color and etc. To be able to add options, you need to add options first under the options section. Also with the reorder field, you’ll be notified when your stock is under that amount.
 
-![Inventory](_images/inventory-groups.gif)
+![Groups](_images/inventory-groups.gif)
 
 ### Options
 
 In Options section, you can add, manage options which describe your items better.
 
-![Inventory](_images/inventory-options.gif)
+![Options](_images/inventory-options.gif)
 
 ### Warehouse
 
 In this section, you can add, manage warehouses you work with. You can also see their details, items which are coming from them and edit them.
 
-![Inventory](_images/inventory-warehouse.gif)
+![Warehouses](_images/inventory-warehouse.gif)
 
 ### Histories
 
