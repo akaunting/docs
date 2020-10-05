@@ -54,6 +54,7 @@
 	* Import Export
 		* [OFX](app-manual/import-export/ofx)
 	* Inventory
+		* [Inventory](app-manual/inventory/inventory)
 	* Notification
 	* Operation
 		* [Custom Fields](app-manual/operation/custom-fields)
