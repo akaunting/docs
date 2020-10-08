@@ -1,7 +1,7 @@
 Live Currency
 =============
 
-This app allows you to retrieve live currency exchange rates from various services such as Fixer, Open Exchange Rates, Google, and a lot more and save them into Akaunting, automatically. Don't waste your time updating currencies manually, Live Currency will sync the rates for you.
+This app allows you to retrieve live currency exchange rates from various services such as Fixer, Open Exchange Rates, Google and a lot more and save them into Akaunting, automatically. Don't waste your time updating currencies manually, Live Currency will sync the rates for you.
 
 You can set the service you want to use with Live Currency on Settings > Live Currency page.
 
