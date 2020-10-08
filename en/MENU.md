@@ -45,7 +45,7 @@
 	* Accounting
 		* [Credit/Debit Notes](app-manual/accounting/credit-debit-notes)
 		* [Double-Entry](app-manual/accounting/double-entry)
-		* [Live-Currency](app-manual/accounting/live-currency)
+		* [Live Currency](app-manual/accounting/live-currency)
 	* Analytics
 	* CRM
 	* eCommerce
