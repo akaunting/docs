@@ -11,13 +11,13 @@ There is a global search box at the left side of the toolbar that allows to sear
 
 The plus button at the right side of toolbar speeds up the progress of adding new **Income** and **Expense** records.
 
-![quick add](_images/quick_add.png)
+![quick add](_images/toolbar-quick-add.gif)
 
 ### Notifications
 
 The bell button at the right side of toolbar will show any available notification, per user/customer. It will notify if there is any item out of stock or there is an invoice/bill overdue.
 
-![notifications](_images/notifications.png)
+![notifications](_images/toolbar-notifications.gif)
 
 ### Updates
 
@@ -31,4 +31,4 @@ The life ring button at the right side of toolbar will redirect you to this docu
 
 The user button at the right side of toolbar shows your profile and links to the Users, Roles and Permissions pages.
 
-![user](_images/user.png)
+![user](_images/toolbar-user-section.gif)
