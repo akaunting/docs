@@ -13,7 +13,7 @@ You can have several dashboards that serve different purposes, switch between, a
 
 After adding new dashboards, the *Dashboard* menu will turn into a dropdown menu from where you can switch between dashboards.
 
-![add dashboard](_images/add_dashboard.png)
+![add dashboard](_images/adding-new-dashboard.gif)
 
 ## Widgets
 
@@ -29,7 +29,7 @@ Akaunting ships with a number of widgets out-of-the-box that can simplify the da
 
 Total and chart widgets are displayed under the default currency. Invoices, revenues, bills, and payments created under a different currency will be converted based on the currency rate at the time they were created.
 
-![add widget](_images/add_widget.png)
+![add widget](_images/adding-new-widget.gif)
 
 ## Apps
 
