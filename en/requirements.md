@@ -15,6 +15,7 @@ PHP Extensions
 --------------
  - BCMath
  - Ctype
+ - Gd
  - JSON
  - Mbstring
  - OpenSSL
