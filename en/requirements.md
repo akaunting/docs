@@ -22,6 +22,7 @@ PHP Extensions
  - Tokenizer
  - XML
  - Zip
+ - FileInfo
 
 These requirements are provided by almost all hosting companies.
 
