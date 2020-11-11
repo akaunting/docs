@@ -3,11 +3,12 @@ Double-Entry
 
 Akaunting ships with single-entry accounting feature set as it's easier to understand for most users. However, some businesses use double-entry accounting to keep their books. [Double-Entry](https://akaunting.com/apps/double-entry) app contains the following features:
 
-- Chart of Accounts
-- Journal Entry
-- General Ledger
-- Balance Sheet
-- Trial Balance
+- [Chart of Accounts](#Chart-of-Accounts)
+- [Journal Entry](#journal-entry)
+- [General Ledger](#general-ledger)
+- [Balance Sheet](#balance-sheet)
+- [Trial Balance](#trial-balance)
+- [Opening/Start Balance](#How-to-enter-the-Opening/Starting-Balance?)
 
 ![double-entry dashboard](_images/double-entry-dashboard.gif)
 
@@ -80,3 +81,15 @@ Balance Sheet shows the currents assets, receivables, debts and capital of a bus
 Trial Balance shows whether debts and credits are equal or not.
 
 ![double-entry opening balance](_images/double-entry-trial-balance.gif)
+
+## How to enter the Opening/Starting Balance?
+
+An opening balance is the amount of funds in an account at the beginning of a new fiscal period.
+
+To set the opening balance, create a new entry from **Double-Entry > Journal Entry** page. Select the account for which you're setting the opening balance as first and the **Owner Contribution/Equity** (or an appropriate Equity) account as second. Then:
+
+1. If the opening balance account (first) is an **asset** (i.e. accounts receivable, bank, credit card), enter the amount as a **debit**.
+
+2. If the opening balance account (first) is a **liability** (i.e. accounts payable), enter the amount as a **credit**.
+
+![double-entry opening balance](_images/double-entry-opening-balance.png)
