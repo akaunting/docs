@@ -8,7 +8,7 @@ Akaunting ships with single-entry accounting feature set as it's easier to under
 - [General Ledger](#general-ledger)
 - [Balance Sheet](#balance-sheet)
 - [Trial Balance](#trial-balance)
-- [Opening/Start Balance](#How-to-enter-the-Opening/Starting-Balance?)
+- [Opening/Starting Balance](#How-to-enter-the-Opening/Starting-Balance?)
 
 ![double-entry dashboard](_images/double-entry-dashboard.gif)
 
@@ -92,4 +92,4 @@ To set the opening balance, create a new entry from **Double-Entry > Journal Ent
 
 2. If the opening balance account (first) is a **liability** (i.e. accounts payable), enter the amount as a **credit**.
 
-![double-entry opening balance](_images/double-entry-opening-balance.png)
+![double-entry opening balance](_images/double-entry-opening-starting-balance.gif)
