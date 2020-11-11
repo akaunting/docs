@@ -3,12 +3,12 @@ Double-Entry
 
 Akaunting ships with single-entry accounting feature set as it's easier to understand for most users. However, some businesses use double-entry accounting to keep their books. [Double-Entry](https://akaunting.com/apps/double-entry) app contains the following features:
 
-- [Chart of Accounts](#Chart-of-Accounts)
-- [Journal Entry](#journal-entry)
-- [General Ledger](#general-ledger)
-- [Balance Sheet](#balance-sheet)
-- [Trial Balance](#trial-balance)
-- [Opening/Starting Balance](#How-to-enter-the-Opening/Starting-Balance?)
+- Chart of Accounts
+- Journal Entry
+- General Ledger
+- Balance Sheet
+- Trial Balance
+- Opening/Starting Balance
 
 ![double-entry dashboard](_images/double-entry-dashboard.gif)
 
