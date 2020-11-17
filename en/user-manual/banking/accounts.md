@@ -13,7 +13,7 @@ The following fields are displayed:
 - **Status**: Status of the account.
 - **Actions**: You can use this button to edit, and delete the account.
 
-![accounts list](_images/accounts_list.png)
+![accounts list](_images/accounts.gif)
 
 ## New Account
 
@@ -29,5 +29,5 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Default Account**: This option will populate the account as selected in accounts list when creating incomes/expenses.
 - **Enabled**: Status of the account.
 
-![accounts form](_images/accounts_form.png)
+![accounts form](_images/accounts-add-new.gif)
 
