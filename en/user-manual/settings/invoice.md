@@ -15,4 +15,4 @@ Invoice settings page is located under **Settings** menu. On this page you can s
 - **Quantity Name**: The text to be used for quantity.
 - **Logo**: The company logo to be used in invoices.
 
-![general invoice](_images/invoice.png)
+![general invoice](_images/invoice.gif)
