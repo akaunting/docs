@@ -10,4 +10,4 @@ Company settings page is located under **Settings** menu. On this page you can s
 - **Address**: The company address to be used in invoices.
 - **Logo**: The company logo to be used in client portal, invoices etc.
 
-![general company](_images/company.png)
+![general company](_images/company.gif)
