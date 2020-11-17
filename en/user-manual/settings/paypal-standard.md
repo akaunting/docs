@@ -13,5 +13,5 @@ The following fields are displayed:
 - **Debug**: Log the callback data.
 - **Order**: Which order you want to show it.
 
-![paypal standard](_images/paypal_standard.png)
+![paypal standard](_images/paypal-standard.gif)
 
