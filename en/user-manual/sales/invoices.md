@@ -13,7 +13,7 @@ Invoices page is located under **Sales > Invoices** menu and the following field
 - **Status**: The status of the invoice.
 - **Actions**: You can use this button to show, edit, duplicate, and delete the invoice.
 
-![invoices list](_images/invoices_list.png)
+![invoices list](_images/invoices.gif)
 
 ## New Invoice
 
@@ -41,13 +41,13 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Recurring**: Automatically create invoices for ongoing jobs. Times=0 means infinite. Don't forget to set the *Cron Command* available at *Settings > [Scheduling](https://akaunting.com/docs/user-manual/settings/scheduling)*.
 - **Attachment**: You can attach file related to the invoice.
 
-![invoices form](_images/invoices_form.png)
+![invoices form](_images/invoices-new-invoice.gif)
 
 ## Show Invoice
 
 The following image shows the details page of an invoice:
 
-![invoices show](_images/invoices_show.png)
+![invoices show](_images/invoices-show-page.gif)
 
 ### Share
 
