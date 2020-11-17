@@ -9,4 +9,4 @@ Localisation settings page is located under **Settings** menu. On this page you 
 - **Data Seperator**: The seperator of date format
 - **Percent Position**: Select the position of the percentage sign.
 
-![general localisation](_images/localisation.png)
+![general localisation](_images/localisation.gif)
