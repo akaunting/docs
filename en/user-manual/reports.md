@@ -7,11 +7,13 @@ All reports are displayed under the default currency. Income and expenses create
 
 In the home page of reports, you can see the report name, it's total amount, description, and the horizontal ellipsis (three dots) that allows you to edit/delete the report.
 
-![reports list](_images/reports_list.png)
+![reports list](_images/reports.gif)
 
 ### View Report
 
 If you click the report name/icon you'll be redirected to the report view page where you can see the data, filter them, print, and export them.
+
+![reports list](_images/reports-view-report.gif)
 
 ## New Reports
 
@@ -28,4 +30,4 @@ The following fields maybe available or not depending on the selected report typ
 - **Basis**: [Here](https://akaunting.com/docs/faq/accrual-vs-cash) you can learn more about cash and accrual accounting.
 - **Chart**: Chart type to be used.
 
-![reports form](_images/reports_form.png)
+![reports form](_images/reports-add-new.gif)
