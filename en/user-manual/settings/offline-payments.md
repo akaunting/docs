@@ -12,7 +12,7 @@ The following fields are displayed:
 - **Order**: The order when showing.
 - **Actions**: The edit button will auto-fill the input box of the left form.
 
-![offline payments](_images/offline_payments.png)
+![offline payments](_images/offline-payments.gif)
 
 ## Add New
 
@@ -23,4 +23,6 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Show to Customer**: If enabled, your customer will see this payment method in the Client Protal so they could use it to pay invoices.
 - **Order**: Which order you want to show it.
 - **Description**: You may add a custom description. For example, your bank account details.
+
+![offline payments](_images/offline-payments-add-new.gif)
 
