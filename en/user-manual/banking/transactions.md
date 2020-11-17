@@ -12,4 +12,4 @@ The following fields are displayed:
 - **Description**: Any applicable description.
 - **Amount**: The amount of the transaction.
 
-![transfers list](_images/transactions_list.png)
+![transfers list](_images/transactions.gif)
