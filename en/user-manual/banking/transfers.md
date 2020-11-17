@@ -14,7 +14,7 @@ The following fields are displayed:
 - **To Account**: The account money get in.
 - **Amount**: The amount of the transfer.
 
-![transfers list](_images/transfers_list.png)
+![transfers list](_images/transfers.gif)
 
 ## New Transfer
 
@@ -28,5 +28,5 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Payment Method**: The method this transfer occured
 - **Reference**: Any possible reference.
 
-![transfers form](_images/transfers_form.png)
+![transfers form](_images/transfers-add-new.gif)
 
