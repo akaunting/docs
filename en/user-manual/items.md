@@ -15,7 +15,7 @@ The following fields are displayed:
 - **Enabled**: Disabled items won't get populated when creating invoices/bills.
 - **Actions**: You can use this button to edit, duplicate, and delete the item.
 
-![items list](_images/items_list.png)
+![items list](_images/items.gif)
 
 ## New Item
 
@@ -30,4 +30,4 @@ The following details are displayed as blank to be filled, some are required and
 - **Picture**: Item's picture.
 - **Enabled**: Disabled items won't get populated when creating invoices/bills.
 
-![items form](_images/items_form.png)
+![items form](_images/items-new-item.gif)
