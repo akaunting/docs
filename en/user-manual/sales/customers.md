@@ -12,7 +12,7 @@ The following fields are displayed:
 - **Status**: Status of the customer.
 - **Actions**: You can use this button to edit, duplicate, and delete the customer.
 
-![customers list](_images/customers_list.png)
+![customers list](_images/customers.gif)
 
 ## New Customer
 
@@ -29,4 +29,4 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Reference**: Any possible reference.
 - **Can Login**: Selecting this option will ask you for password. You customer may access the Client Portal using their email and password and so on see/pay the invoices assigned to them.
 
-![customers form](_images/customers_form.png)
+![customers form](_images/customers-new-customer.gif)
