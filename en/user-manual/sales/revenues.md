@@ -12,7 +12,7 @@ Revenues page is located under **Sales > Revenues** menu and the following field
 - **Account**: Account paid to.
 - **Actions**: You can use this button to edit, duplicate, and delete the revenue.
 
-![revenues list](_images/revenues_list.png)
+![revenues list](_images/revenues.gif)
 
 ## New Revenue
 
@@ -30,4 +30,4 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Attachment**: You can attach file related to the revenue.
 - **Invoice**: You can attach the payment to an invoice.
 
-![revenues form](_images/revenues_form.png)
+![revenues form](_images/revenues-new-revenue.gif)
