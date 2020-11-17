@@ -16,7 +16,7 @@ The following fields are displayed:
 - **Status**: Status of the reconciliation.
 - **Actions**: You can use this button to edit, and delete the reconciliation.
 
-![reconciliations list](_images/reconciliations_list.png)
+![reconciliations list](_images/reconciliations.gif)
 
 ## New Reconciliation
 
@@ -39,5 +39,5 @@ The following fields are displayed as blank to be filled, some are required and 
 
 You may save the reconciliation and continue later or finish it by clicking reconcile button.
 
-![reconciliations form](_images/reconciliations_form.png)
+![reconciliations form](_images/reconciliations-add-new.gif)
 
