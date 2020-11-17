@@ -13,7 +13,7 @@ The following fields are displayed:
 - **Status**: Status of the category.
 - **Actions**: You can use this button to edit, and delete the category.
 
-![categories list](_images/categories_list.png)
+![categories list](_images/categories.gif)
 
 ## New Category
 
@@ -24,5 +24,5 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Colour**: This colour will be used in dashboard charts.
 - **Enabled**: Status of the category.
 
-![categories form](_images/categories_form.png)
+![categories form](_images/categories-add-new.gif)
 
