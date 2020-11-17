@@ -11,4 +11,4 @@ Default settings page is located under **Settings** menu. On this page you can s
 - **Records Per Page**: Number of records to be shown in list page.
 - **Use Gravatar**: Select whether to use gravatar as profile picture at the right top.
 
-![general defaults](_images/default.png)
+![general defaults](_images/default.gif)
