@@ -13,7 +13,7 @@ Bills page is located under **Purchases > Bills** menu and the following fields 
 - **Status**: The status of the bill.
 - **Actions**: You can use this button to show, edit, duplicate, and delete the bill.
 
-![bills list](_images/bills_list.png)
+![bills list](_images/bills.gif)
 
 ## New Bill
 
@@ -40,13 +40,13 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Recurring**: Automatically create bills for ongoing jobs. Times=0 means infinite. Don't forget to set the *Cron Command* available at *Settings > [Scheduling](https://akaunting.com/docs/user-manual/settings/scheduling)*.
 - **Attachment**: You can attach file related to the bill.
 
-![bills form](_images/bills_form.png)
+![bills form](_images/bills-add-new.gif)
 
 ## Show Bill
 
 The following image shows the details page of a bill:
 
-![bills show](_images/bills_show.png)
+![bills show](_images/bills-show.gif)
 
 ### Actions
 
