@@ -12,7 +12,7 @@ Payments page is located under **Purchases > Payments** menu and the following f
 - **Account**: Account used to pay.
 - **Actions**: You can use this button to edit, duplicate, and delete the payment.
 
-![payments list](_images/payments_list.png)
+![payments list](_images/payments.gif)
 
 ## New Payment
 
@@ -30,4 +30,4 @@ The following feilds are displayed as blank to be filled, some are required and 
 - **Attachment**: You can attach file related to the payment.
 - **Bill**: You can attach the payment to a bill.
 
-![payments form](_images/payments_form.png)
+![payments form](_images/payments-add-new.gif)
