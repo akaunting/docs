@@ -12,7 +12,7 @@ The following details are displayed:
 - **Status**: Status of the vendor.
 - **Actions**: You can use this button to edit, duplicate, and delete the vendor.
 
-![vendors list](_images/vendors_list.png)
+![vendors list](_images/vendors.gif)
 
 ## New Vendor
 
@@ -29,4 +29,4 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Reference**: Any possible reference.
 - **Enabled**: Status of the vendor.
 
-![vendors form](_images/vendors_form.png)
+![vendors form](_images/vendors-add-new.gif)
