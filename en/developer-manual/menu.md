@@ -30,7 +30,7 @@ class AddToAdminMenu
 
         // Add new menu item
         $event->menu->add([
-            'route' => 'my-blog.posts.index',
+            'route' => ['my-blog.posts.index', [] ],
             'title' => trans('my-blog::general.posts'),
             'icon' => 'fas fa-pen',
             'order' => 5,
