@@ -61,6 +61,7 @@
 		* [Custom Fields](app-manual/operation/custom-fields)
 	* Payment Method
 		* [Square](app-manual/payment-method/square)
+		* [PayFlexi](app-manual/payment-method/payflexi)
 	* Payroll
 	* Point of Sale
 	* Time Tracking
