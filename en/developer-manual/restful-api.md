@@ -38,7 +38,6 @@ app/Transformers
 
 ### API Blueprint
 
-
 # 📁 Collection: Companies 
 
 
@@ -46,7 +45,7 @@ app/Transformers
 ### Description: 
 Method: GET
 >```
->undefined
+>{{akaunting_url}}/companies
 >```
 ### 🔑 Authentication basic
 
@@ -62,7 +61,7 @@ Method: GET
 ### Description: 
 Method: GET
 >```
->undefined
+>{{akaunting_url}}/companies/{{akaunting_company_id}}/owner
 >```
 ### 🔑 Authentication basic
 
@@ -78,7 +77,7 @@ Method: GET
 ### Description: 
 Method: GET
 >```
->undefined
+>{{akaunting_url}}/companies/{{akaunting_company_id}}/enable
 >```
 ### 🔑 Authentication basic
 
@@ -94,7 +93,7 @@ Method: GET
 ### Description: 
 Method: GET
 >```
->undefined
+>{{akaunting_url}}/companies/{{akaunting_company_id}}/disable
 >```
 ### 🔑 Authentication basic
 
@@ -1030,7 +1029,7 @@ Method: GET
 ### Description: 
 Method: GET
 >```
->undefined
+>{{akaunting_url}}/ping
 >```
 ### 🔑 Authentication basic
 
@@ -1064,5 +1063,4 @@ Method: GET
 
 ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃
 
-
-
+_________________________________________________
