@@ -52,6 +52,8 @@
 		* [OpenCart](app-manual/ecommerce/opencart)
 		* [WooCommerce](app-manual/ecommerce/woocommerce)
 	* Help Desk
+	* HR
+	    * [Expenses] (app-manual/hr/expenses)
 	* Import Export
 		* [OFX](app-manual/import-export/ofx)
 	* Inventory
