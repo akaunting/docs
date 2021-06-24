@@ -3,7 +3,7 @@ Introduction
 
 Welcome to the documentation of Akaunting, the [free accounting software](https://akaunting.com).
 
-This guide serves as a resource to users and developers needing direction in Akaunting interface or code. Everyone is welcomed to help make this information better and improve as needed.
+This guide serves as a resource to users and developers needing direction in the Akaunting interface or code. Everyone is welcome to help make this information better and improve as needed.
 
 ### Users
 
