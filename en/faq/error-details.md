@@ -1,5 +1,5 @@
-How to see error details?
-=========================
+Error details
+=============
 
 As all the software outside, Akaunting is not perfect so you may encounter errors. In such a case, you may want to see the details of the error. To get that, you should enable the debug variable.
 

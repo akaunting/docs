@@ -41,7 +41,7 @@
     * [Bills vs Payments](faq/bills-vs-payments)
     * [Shipping Cost](faq/shipping-cost)
     * [Not able to install apps](faq/not-able-to-install-apps)
-    * [How to see error details?](developer-manual/debug)
+    * [Error details](faq/error-details)
 * App Manual
 	* Accounting
 		* [Credit/Debit Notes](app-manual/accounting/credit-debit-notes)
