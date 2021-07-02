@@ -41,6 +41,7 @@
     * [Bills vs Payments](faq/bills-vs-payments)
     * [Shipping Cost](faq/shipping-cost)
     * [Not able to install apps](faq/not-able-to-install-apps)
+    * [How to see error details?](developer-manual/debug)
 * App Manual
 	* Accounting
 		* [Credit/Debit Notes](app-manual/accounting/credit-debit-notes)
@@ -67,14 +68,3 @@
 	* Payroll
 	* Point of Sale
 	* Time Tracking
-* Developer Manual
-    * [Debug](developer-manual/debug)
-    * [Modules](developer-manual/modules)
-    * [Menu](developer-manual/menu)
-    * [Settings](developer-manual/settings)
-    * [Permissions](developer-manual/permissions)
-    * [Overriding Output](developer-manual/overriding-output)
-    * [Hooking Models](developer-manual/hooking-models)
-    * [RESTful API](developer-manual/restful-api)
-    * [Adding Docs](developer-manual/adding-docs)
-    * [Reverse Proxy](developer-manual/reverse-proxy)
