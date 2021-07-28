@@ -36,6 +36,8 @@ It is advised to start by checking the PoS settings. Make sure that all settings
 
 **Printer paper size** allows you to adjust a receipt's size to your printer's paper width.
 
+**Paper cutter usage** switch if enabled, will make a receipt having a page break below all the content. Most receipt printers use the page break as a command to cut the paper.
+
 **Barcode scanner usage** switch controls the search field behavior. When it is set to "Yes", then the search field will automatically get focus, allowing you to scan goods sequentially, one by one.
 
 ![Settings form](_images/pos-settings-pos-form.png)
