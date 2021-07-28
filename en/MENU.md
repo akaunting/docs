@@ -67,4 +67,5 @@
 		* [PayFlexi](app-manual/payment-method/payflexi)
 	* Payroll
 	* Point of Sale
+		* [Point of Sale](app-manual/point-of-sale/pos)
 	* Time Tracking
