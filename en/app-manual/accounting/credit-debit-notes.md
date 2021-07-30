@@ -12,7 +12,7 @@ Credit/Debit Notes
 
 ## Working with credit notes
 
-A credit note is a commercial document issued by a vendor to a customer when there has been an error in an invoice, such as incorrect amount, or when a customer wishes to change the order or return some goods.
+A credit note is a commercial document issued by a vendor to a customer when there has been an error in an invoice, such as an incorrect amount, or when a customer wishes to change the order or return some goods.
 
 ### Issuing a credit note
 
@@ -24,7 +24,7 @@ Also, you can quickly create a credit note right from an invoice.
 
 ![Create credit notes from an invoice](_images/credit-debit-notes-create-credit-note-from-invoice.png)
 
-In this case all credit note's fields will be prefilled with the data from the invoice.
+In this case, all credit note's fields will be prefilled with the data from the invoice.
 
 Set the Credit Customer Account switch to the appropriate position depending on whether you want to credit a customer's account or make a refund.
 
@@ -32,13 +32,13 @@ Set the Credit Customer Account switch to the appropriate position depending on 
 
 ### Using credits
 
-If you set it to the Yes then the credit note's amount will be added to a customer account as credits after a credit note is marked as sent. You can use them to fully or partially paid an invoice.
+If you set it to the Yes, then the credit note's amount will be added to a customer account as credits after a credit note is marked as sent. You can use them to fully or partially paid an invoice.
 
 ![Use credits modal](_images/credit-debit-notes-use-credits-modal.png)
 
 ### Making a refund
  
-In case you set the Credit Customer Account switch to the No you will be able to refund some amount to a customer. You can use any of available accounts and payment methods to do this.
+In case you set the Credit Customer Account switch to the No, you will be able to refund some amount to a customer. You can use any of the available accounts and payment methods to do this.
 
 ![Make refund modal](_images/credit-debit-notes-make-refund-modal.png)
 
@@ -50,7 +50,7 @@ The list of credit notes and their total count are also available in the Custome
 
 ### Settings
 
-You can customize credit note's settings using the standard Akaunting's settings section. Here you can set a number prefix, a number digit, next number, a title, a subheading, notes, a footer text and a template.
+You can customize credit note's settings using the standard Akaunting's settings section. Here you can set a number prefix, a number digit, next number, a title, a subheading, notes, a footer text, and a template.
 
 ![Settings card](_images/credit-debit-notes-settings-credit-note-card.png)
 
@@ -72,11 +72,11 @@ Also, you can quickly create a debit note right from a bill.
 
 ![Create debit notes from a bill](_images/credit-debit-notes-create-debit-note-from-bill.png)
 
-In this case all debit note's fields will be prefilled with the data from the bill.
+In this case, all debit note's fields will be prefilled with the data from the bill.
 
 ### Receiving a refund
  
-It is possible to receive a refund from a vendor after a debit note is marked as sent. You can use any of available accounts and payment methods to do this.
+It is possible to receive a refund from a vendor after a debit note is marked as sent. You can use any of the available accounts and payment methods to do this.
 
 ![Receive refund modal](_images/credit-debit-notes-receive-refund-modal.png)
 
