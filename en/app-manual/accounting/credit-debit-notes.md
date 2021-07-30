@@ -34,17 +34,11 @@ Set the Credit Customer Account switch to the appropriate position depending on 
 
 If you set it to the Yes then the credit note's amount will be added to a customer account as credits after a credit note is marked as sent. You can use them to fully or partially paid an invoice.
 
-![Use credits button](_images/credit-debit-notes-use-credits-button.png)
-
-![Use credits menu item](_images/credit-debit-notes-use-credits-menu-item.png)
-
 ![Use credits modal](_images/credit-debit-notes-use-credits-modal.png)
 
 ### Making a refund
  
 In case you set the Credit Customer Account switch to the No you will be able to refund some amount to a customer. You can use any of available accounts and payment methods to do this.
-
-![Make refund menu item](_images/credit-debit-notes-make-refund-menu-item.png)
 
 ![Make refund modal](_images/credit-debit-notes-make-refund-modal.png)
 
@@ -83,8 +77,6 @@ In this case all debit note's fields will be prefilled with the data from the bi
 ### Receiving a refund
  
 It is possible to receive a refund from a vendor after a debit note is marked as sent. You can use any of available accounts and payment methods to do this.
-
-![Receive refund menu item](_images/credit-debit-notes-receive-refund-menu-item.png)
 
 ![Receive refund modal](_images/credit-debit-notes-receive-refund-modal.png)
 
