@@ -57,6 +57,7 @@
 	    * [Expenses](app-manual/hr/expenses)
 	* Import Export
 		* [OFX](app-manual/import-export/ofx)
+		* [Freshbooks](app-manual/import-export/freshbooks)
 	* Inventory
 		* [Inventory](app-manual/inventory/inventory)
 	* Notification
