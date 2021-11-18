@@ -19,13 +19,9 @@ Double-Entry app contains the following features:
 The dashboard is the landing page of the Akaunting, you can reach the Double-entry Dashboard below the Dashboard in the left side menu. The Double-Entry Dashboard gives you insight into the business activities of your company based on the COA. You can adjust the Double-Entry dashboard according to your needs. The dashboard shows you active fiscal year data of your company's financial activities by default; if you need, you can change the date range.
 
 Following data display on the dashboard by default.
-
 Widgets: Total Income by COA, Total Expense by COA, Total Profil by COA
-
 Line Chart: Cash Flow
-
 Pie Chart: Income by COA, Expense by COA
-
 List: Account Balance, Latest Income By COA, Latest Expenses By COA
 
 ## Chart of Accounts
@@ -51,6 +47,7 @@ You can add a new account easily on the Chart of Accounts page. To do this, clic
 ### Import and Export
 
 You can export your COA list with one click at the right top of the COA page. To import your COA, you can find the import template on the import page, and then you can fill this excel table according to your request. You need to fill in the all required fields to complete the import. An account code can be added only for one account, if there is a duplicate account code on the import table, import is not completed. You can not add a new account type by importing a new COA list, you must use the previously added one. You can find the list of account Types below.
+If you want to import the Revenues/Payments with a chart of accounts, you have to fill a column named chart_of_account that contains the code/name/id of an account.
 
 Assets
 
