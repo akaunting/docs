@@ -57,6 +57,9 @@
 	    * [Expenses](app-manual/hr/expenses)
 	* Import Export
 		* [OFX](app-manual/import-export/ofx)
+		* [QuickBooks](app-manual/import-export/quickbooks)
+		* [Zoho Books](app-manual/import-export/zohobooks)
+		* [Xero](app-manual/import-export/xero)
 		* [Freshbooks](app-manual/import-export/freshbooks)
 	* Inventory
 		* [Inventory](app-manual/inventory/inventory)
