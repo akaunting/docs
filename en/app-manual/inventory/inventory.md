@@ -46,7 +46,7 @@ If you click the **Track Inventory** checkbox while creating an item, the stock 
 
 **Opening Stock** identifies the number of stock when the item is created. If you change the opening stock, the total current stock will be calculated according to the recorded transactions.
 
-**Reorder Level** provides you to track which items are near to out of stock. You will notify if the item stock drops under the
+**Reorder Level** provides you to track which items are near to out of stock. You will notify if the item stock drops below the specified amount. 
 
 Add New Item
 ![Inventory_NewItem_v3](https://user-images.githubusercontent.com/81233281/141702834-8b444529-48ec-4823-af08-60487100e766.gif)
