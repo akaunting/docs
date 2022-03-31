@@ -56,6 +56,7 @@
 	* HR
 	    * [Expenses](app-manual/hr/expenses)
 	* Import Export
+		* [Expensify](app-manual/import-export/expensify)
 		* [OFX](app-manual/import-export/ofx)
 		* [QuickBooks](app-manual/import-export/quickbooks)
 		* [Zoho Books](app-manual/import-export/zohobooks)
