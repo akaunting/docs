@@ -2,7 +2,7 @@ Expenses
 ============
 
 
-Expenses app allows you to track completed employee’s expenses both paid by the company or employee.
+The Expenses app provides the ability to create, track, and reimburse for expenses incured and paid for on behalf of the company.
 
 Reimbursement is compensation paid by companies to employees for payments made by your employees on behalf of your company. While recording an expense claim, you can pay back reimbursable expenses to your employees such as transportation, travel, food, etc.
 
