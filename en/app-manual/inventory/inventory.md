@@ -1,4 +1,5 @@
-# Inventory Doc
+Inventory
+============
 
 Almost all product-based businesses need reliable and simple inventory management software. Introducing an easy way for companies and small businesses to keep track of their inventory.
 

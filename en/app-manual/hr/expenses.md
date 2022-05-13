@@ -1,4 +1,5 @@
-# Expenses
+Expenses
+============
 
 
 Expenses app allows you to track completed employee’s expenses both paid by the company or employee.
