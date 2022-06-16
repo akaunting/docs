@@ -1,7 +1,7 @@
 Reports
 =======
 
-Reports allows you to get detailed financial data and help you better visualize all the information you need to improve your business. It gives you as a business owner a good idea of where your business income stands, month by month, and categorised.
+Reports allows you to get detailed financial data. It helps you better visualize all the information you need to improve your business. It also gives you a good idea of where your business income stands, month by month, in a categorised manner.
 
 All reports are displayed under the default currency. Income and expenses created under a different currency will be converted based on the currency rate at the time they were created.
 
@@ -19,15 +19,19 @@ If you click the report name/icon you'll be redirected to the report view page w
 
 The following details are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
 
-- **Name**: The name of report.
-- **Type**: There are 5 default types and it can be extended by apps.
-- **Description**: Description to be used in report list.
+|    Field    | Description                                               |
+| :---------: | :-------------------------------------------------------- |
+|    Name     | The name of report.                                       |
+|    Type     | There are 5 default types and it can be extended by apps. |
+| Description | Description to be used in report list.                    |
 
 The following fields maybe available or not depending on the selected report type:
 
-- **Group By**: You can group report by category, customer, etc. Each report type has its own groups.
-- **Period**: You can set the report in monthly, quarterly, and yearly base.
-- **Basis**: [Here](https://akaunting.com/docs/faq/accrual-vs-cash) you can learn more about cash and accrual accounting.
-- **Chart**: Chart type to be used.
+|  Field   | Description                                                                                                  |
+| :------: | :----------------------------------------------------------------------------------------------------------- |
+| Group By | You can group report by category, customer, etc. Each report type has its own groups.                        |
+|  Period  | You can set the report in monthly, quarterly, and yearly base.                                               |
+|  Basis   | [Here](https://akaunting.com/docs/faq/accrual-vs-cash) you can learn more about cash and accrual accounting. |
+|  Chart   | Chart type to be used.                                                                                       |
 
 ![reports form](_images/reports-add-new.gif)

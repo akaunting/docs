@@ -19,15 +19,15 @@ After adding new dashboards, the *Dashboard* menu will turn into a dropdown menu
 
 Akaunting ships with a number of widgets out-of-the-box that can simplify the day-to-day activities.
 
- |        Widgets        | Description                                                                                                          |
- | :-------------------: | :------------------------------------------------------------------------------------------------------------------- |
- |        Totals         | Sum up the income, expense and profit state of your business. They also show the upcoming (not paid) invoices/bills. |
- |      Cash Flow:       | Shows the income, expense and profit in cash per month/quarter.                                                      |
- | Incomes By Category:  | A pie chart to show the distribution of incomes.                                                                     |
- | Expenses By Category: | A pie chart to show the distribution of expenses.                                                                    |
- |   Account Balance:    | It shows the balance of each account you've added.                                                                   |
- |    Latest Incomes:    | A list that displays the last 5 incomes.                                                                             |
- |   Latest Expenses:    | A list that displays the last 5 expenses.                                                                            |
+ |        Widget        | Description                                                                                                          |
+ | :------------------: | :------------------------------------------------------------------------------------------------------------------- |
+ |        Totals        | Sum up the income, expense and profit state of your business. They also show the upcoming (not paid) invoices/bills. |
+ |      Cash Flow       | Shows the income, expense and profit in cash per month/quarter.                                                      |
+ | Incomes By Category  | A pie chart to show the distribution of incomes.                                                                     |
+ | Expenses By Category | A pie chart to show the distribution of expenses.                                                                    |
+ |   Account Balance    | It shows the balance of each account you've added.                                                                   |
+ |    Latest Incomes    | A list that displays the last 5 incomes.                                                                             |
+ |   Latest Expenses    | A list that displays the last 5 expenses.                                                                            |
 
 Total and chart widgets are displayed under the default currency. Invoices, revenues, bills, and payments created under a different currency will be converted based on the currency rate at the time they were created.
 

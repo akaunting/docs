@@ -1,7 +1,7 @@
 App Store
 =========
 
-While we strongly believe that Akaunting is the best free accounting software out there, we're very well aware that it's not perfect, just like everything in the real world. Akaunting ships with core accounting tools needed to manage the money. For further features, instead of creating a bloated software by adding all of them to the core, we've created a modular structure so that it could get extended easily.
+While we strongly believe that Akaunting is the best free accounting software, we're also aware it's not perfect. Akaunting ships with core accounting tools needed to manage money. For added features, we've created a modular structure so that it could be extended easily, instead of creating a bloated software by adding all of them to the core.
 
 ![apps home](_images/apps.gif)
 
@@ -9,7 +9,7 @@ For example, an app can connect your online store built with WooCommerce so that
 
 ## API Key
 
-In order to access the App Store from your Akaunting software installation, and install the apps you've purchased, you will need to get your [API Key](https://akaunting.com/dashboard) and enter it when you get asked for. That is the bridge between the software and site (akaunting.com).
+In order to access the App Store from your Akaunting software installation, and install the apps you've purchased, you will need to get your [API Key](https://akaunting.com/dashboard) and enter it when you are prompted to provide it. It is the bridge between the software and site (akaunting.com).
 
 ![apps home](_images/apps-api-key.gif)
 
