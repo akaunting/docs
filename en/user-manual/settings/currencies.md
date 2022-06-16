@@ -4,12 +4,13 @@ Currencies
 Currencies page is located under **Settings > Currencies** page. On this page you can see all currencies, search for any, create a new one, edit the current ones and delete them.
 
 The following fields are displayed:
-
-- **Name**: Currency's name.
-- **Code**: Unique ISO code of currency.
-- **Rate**: The rate against the default currency. Default currency rate is always 1.
-- **Status**: Status of the currency.
-- **Actions**: You can use this button to edit, and delete the currency.
+|  Field  | Description                                                               |
+| :-----: | :------------------------------------------------------------------------ |
+|  Name   | Currency's name.                                                          |
+|  Code   | Unique ISO code of currency.                                              |
+|  Rate   | The rate against the default currency. Default currency rate is always 1. |
+| Status  | Status of the currency.                                                   |
+| Actions | You can use this button to edit, and delete the currency.                 |
 
 ![currencies list](_images/currencies.gif)
 
