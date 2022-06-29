@@ -1,17 +1,19 @@
 PayPal Standard
-================
+=========
 
-PayPal Standard page is located under **Settings > PayPal Standard** page. On this page you can enter your PayPal details.
+Paypal Standard allows you to accept debit and credit card payments from Paypal.
+To accept payment, you need a Paypal business account. With Paypal standard, you can sync with Akaunting in the settings.
+(Getting a Paypal business account is easy, as you only need to convert an existing Personal account to Business)
 
-The following fields are displayed:
+Customers are redirected from your site to PayPal to complete payment for their orders. 
+To enable the standard payment option of PayPal, you need to enter the following details:
 
 - **Name**: The name to be shown.
-- **Email**: Your PayPal account's email, where customer will make the payment.
-- **Mode**: You can use the Sandbox mode for test purposes.
+- **Email**: Your PayPal account's email, where the customer will make the payment.
+- **Mode**: Select whether to launch your checkout process or test it in Sandbox mode. If you wish to test the checkout, select the sandbox mode. If you are ready to accept payments, go for the Live mode.
 - **Transaction**: Select between Sale or Authorization.
-- **Show to Customer**: If enabled, your customer will see this payment method in the Client Portal so they could use it to pay invoices.
-- **Debug**: Log the callback data.
-- **Order**: Which order you want to show it.
-
-![paypal standard](_images/paypal-standard.gif)
+- **Account**: Select the currency account to which payments/transactions will be recorded.
+- **Order**: Enter the display order for each transaction.
+- **Show to Customer**: If enabled, your customer will see this payment method in the Client Portal so they can use it to pay invoices.
+- **Debug**: Enable/Disable activity log for access to callback data.
 

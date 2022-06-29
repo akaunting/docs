@@ -1,13 +1,15 @@
-Scheduling Settings
-===================
+Scheduling
+=========
 
-Scheduling settings page is located under **Settings** menu. On this page you can set up the settings for each company.
+You can enable or disable reminders for your overdue/upcoming invoices or bills here.
 
-- **Send Invoice Reminder**: Send invoice reminder email to your customers.
-- **Send After Due Days**: Enter the days after the due date to send the invoice reminder.
-- **Send Bill Reminder**: Send bill reminder email to yourself.
-- **Send After Due Days**: Enter the days after the due date to send the bill reminder.
-- **Cron Command**: Copy the command to your Cron Job system. Set it to run *every minute*. Replace the *path-to-akaunting* part whith the full path where you've installed Akaunting. Contact your hosting provider to get further help about Cron.
-- **Hour To Run**: Enter the hour you want the command to run.
+These reminders work with your email templates and automatically send emails based on your schedule.
+Once you set a reminder, you do not need to update it when creating a new record.
 
-![general scheduling](_images/scheduling.gif)
+The following fields are found on the scheduling page:
+ 
+- **Send Invoice Reminder**: You can enable/disable the send invoice reminder email to your customers.
+- **Send After Due Days**: Type in the days after the due date to send the invoice reminder.
+
+- **Send Bill Reminder**: You can enable/disable bill reminder email for yourself. 
+- **Send After Due Days**: Type in the due date to send the bill reminder.

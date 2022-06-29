@@ -1,32 +1,17 @@
 Transfers
 =========
 
-Sometimes you may want to transfer money from one account to another. For example, moving your cash money to bank. In such a case, Akaunting will create a revenue and payment record for the respected accounts.
+Sometimes you may want to transfer money from one account to another. For example, moving your cash to the Bank. In such a case, Akaunting creates a revenue and payment record for the respected accounts.
 
-Transfers page is located under **Banking > Transfers** menu. On this page you can see all transfers, search for any, create a new one, edit the current ones and delete them.
+The transfers page is located under the Banking > Transfers menu. You can see all transfers on this page, search for any, create a new one, edit the current ones or delete them.
 
-Money transferred between accounts with different currencies will be converted automatically by Akaunting, based on the currency rates you have set up from **Settings > Currencies** page.
+Money transferred between accounts with different currencies will be converted automatically by Akaunting, based on the currency rates you have set up from the Settings > Currencies page. [Premium Plan](http://akaunting.com/plans) offers you the Live Currency feature, allowing you to adjust the exchange rates.
 
-The following fields are displayed:
+On the Transfer page, you can click on the New Transfer button to initiate a transfer or click on More options to Import or Export transfers. 
 
+On the New Transfer page, the following fields are displayed:
+- **From**: The account money gets out.
+- **To Account**: The account money gets in.
 - **Date**: Transfer date.
-- **From Account**: The account	money get out.
-- **To Account**: The account money get in.
 - **Amount**: The amount of the transfer.
-
-![transfers list](_images/transfers.gif)
-
-## New Transfer
-
-The following fields are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
-
-- **From Account**: The account	money get out.
-- **To Account**: The account money get in.
-- **Amount**: The amount of the transfer.
-- **Date**: Transfer date.
-- **Description**: Custom description for the transfer.
-- **Payment Method**: The method this transfer occured
-- **Reference**: Any possible reference.
-
-![transfers form](_images/transfers-add-new.gif)
-
+- **Description**: Add a note for the transfer
