@@ -80,9 +80,9 @@
 	* Reports
 		* [Reports](user-manual/reports/reports)
 	* App Store
-		* [Overview](user-manual/apps/overview)
-		* [Apps](user-manual/apps/apps)
-		* [Uninstall/Disable](user-manual/apps/uninstall-disable)
+		* [Overview](user-manual/app-store/overview)
+		* [Apps](user-manual/app-store/apps)
+		* [Uninstall/Disable](user-manual/app-store/uninstall-disable)
 * FAQ
     * [Accrual vs Cash](faq/accrual-vs-cash)
     * [Shipping Cost](faq/shipping-cost)
