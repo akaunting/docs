@@ -67,9 +67,22 @@
 			* [Recurring Bills](user-manual/purchases/bills/recurring-bills)
 		* [Vendors](user-manual/purchases/vendors)
 	* Banking
-	* Assign
+		* Assign
+			* [Assign](user-manual/banking/assign/assign)
+			* [New Expense](user-manual/banking/assign/new-expense)
+		* Transactions
+			* [Net Income](user-manual/banking/transactions/net-income)
+			* [Transactions](user-manual/banking/transactions/transactions)
+		* [Accounts](user-manual/banking/accounts)
+		* [Other](user-manual/banking/other)
+		* [Reconciliation](user-manual/banking/reconciliation)
+		* [Transfers](user-manual/banking/transfers)
 	* Reports
+		* [Reports](user-manual/reports/reports)
 	* App Store
+		* [Overview](user-manual/apps/overview)
+		* [Apps](user-manual/apps/apps)
+		* [Uninstall/Disable](user-manual/apps/uninstall-disable)
 * FAQ
     * [Accrual vs Cash](faq/accrual-vs-cash)
     * [Shipping Cost](faq/shipping-cost)
