@@ -4,10 +4,11 @@ Bills
 All your company’s expenses are logged  in Bills under the Purchases section.
 Bills are the first purchase types in the Akaunting. When you make a purchase, the vendor sends  a bill with details of the product or service.. 
 
-Bills are generally recorded as unpaid. When it is paid, you should record it as a payment.   
+Bills are generally recorded as unpaid. When it is paid, you should record it as a payment.
+
+![Bill](_images/bill.gif)
 
 On the Bills page, you will see the overview of your all bills categorized into Overdue, Open and Draft. Here, all bills are listed and you can sort them by date, status, or amount.
-
 
 At the top right of the Bills page, you’ll find the New Bill, Receipts and Credit/Debit Notes buttons.
 When creating a new bill, the following fields are displayed:
@@ -27,9 +28,13 @@ When creating a new bill, the following fields are displayed:
 - **Category**: Category of the invoice to be used in reports.
 - **Attachment**: You can attach a file related to that invoice
 
+![Creating a new bill](_images/bills-add-new.gif)
+
 On the Bills page, you can view the status of your bills group into paid, partial, or received. The status of bills change automatically depending on your actions. 
 
 By checking a Bill, you get the options to Mark Received, Cancel, Delete or Export. You can also hover on a bill to reveal a summary of the bill. The hover also gives you more options - Show, Edit, Duplicate and More.
+
+![How a bill page looks](_images/bills-show.gif)
 
 You can complete the following actions to create a new bill.
 

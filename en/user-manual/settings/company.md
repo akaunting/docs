@@ -3,6 +3,8 @@ Company
 
 The Company settings page is located under Settings > Company menu. On this page, you can update the details of each company.
 
+![Companies](_images/company.gif)
+
 **Company**
 
 - **Name**: Company's name.
@@ -11,3 +13,5 @@ The Company settings page is located under Settings > Company menu. On this page
 - **Phone**: Company's phone number.
 - **Address**: The company address to be used on invoices.
 - **Logo**: The company's logo to be used in the client portal, invoices, etc.
+
+![Company settings](_images/company-settings.gif)

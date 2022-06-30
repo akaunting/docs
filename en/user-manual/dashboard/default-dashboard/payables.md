@@ -7,3 +7,5 @@ The payables section displays the amount you're yet to receive from your custome
 - **Overdue**: The number of bills with an exceeded due date for the payment. You can see more details about the overdue invoices by clicking on more details.
 
 You can deep dive into the information by clicking on View Report.
+
+![Payables](_images/payables.png)

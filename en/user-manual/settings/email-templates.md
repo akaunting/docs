@@ -16,3 +16,5 @@ You can edit the Subject line and Body of the email templates by selecting the r
 You can use the suggested tags summarized at the bottom of the page in the "Available tags" section to enhance your invoice personalization. 
 
 Note that to send emails to your customers, you must add their email addresses on the customer's page.
+
+![Email templates](_images/email-templates.gif)

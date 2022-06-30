@@ -13,6 +13,6 @@ To Install an App;
 - Click the Buy Now button
 - After the payment process is finished, you’ll be able to install the app with one click. 
 
-![How to buy an app](_images/apps-buy.gif)
+![How to buy an app](_images/app-buy.gif)
 
 You can cancel subscriptions from the subscriptions page. After cancellation, you can continue to use the app until the end of the subscription period, when support and update will discontinue.

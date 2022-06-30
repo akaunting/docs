@@ -17,7 +17,7 @@
 		* [Profile](user-manual/the-user-interface-framework/profile)
 		* [Notifications](user-manual/the-user-interface-framework/notifications)
 		* [Search](user-manual/the-user-interface-framework/search)
-		* [Add New](user-manual/the-user-interface-framework/add-new)
+		* [Quick add](user-manual/the-user-interface-framework/quick-add)
 		* [Settings](user-manual/the-user-interface-framework/settings)
 		* [Help](user-manual/the-user-interface-framework/help)
 		* [Favorites](user-manual/the-user-interface-framework/favorites)
@@ -26,8 +26,8 @@
 		* [Profile](user-manual/personalize-your-profile/profile)
 		* [Users](user-manual/personalize-your-profile/users)
 	* Personalize Akaunting
-		* [Add New Organization](user-manual/personalize-akaunting/add-new-organization)
-		* [Personalize Akaunting Interface](user-manual/personalize-akaunting/personalize-akaunting-interface)
+		* [Create a new Organization](user-manual/personalize-akaunting/create-new-organization)
+		* [Personalize the Interface](user-manual/personalize-akaunting/personalize-the-interface)
 	* Settings
 		* [Overview](user-manual/settings/overview)
 		* [Company](user-manual/settings/company)
@@ -88,8 +88,6 @@
     * [Shipping Cost](faq/shipping-cost)
     * [Not able to install apps](faq/not-able-to-install-apps)
     * [Error details](faq/error-details)
-    * [Client Portal](faq/client-portal)
-    * [Employee Portal](faq/employee-portal)
 * App Manual
 	* Accounting
 		* [Credit/Debit Notes](app-manual/accounting/credit-debit-notes)

@@ -22,3 +22,5 @@ Below are the defaults you can adjust:
 
 - **Language**: Default language to be used on the User Interface.
 - **Records Per Page**: Number of records to be shown on the list page.
+
+![Default settings](_images/default-settings.png)

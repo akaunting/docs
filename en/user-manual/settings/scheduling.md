@@ -13,3 +13,5 @@ The following fields are found on the scheduling page:
 
 - **Send Bill Reminder**: You can enable/disable bill reminder email for yourself. 
 - **Send After Due Days**: Type in the due date to send the bill reminder.
+
+![Scheduling settings](_images/scheduling-settings.png)

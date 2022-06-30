@@ -7,3 +7,4 @@ Before looking into the various sections in the Dashboard, here are tips on how 
 
 You can select the timeframe for any information you need. The date picker on the top right of the dashboard page allows you to see your company's performance in a timeframe. As you select the period, your Dashboard brings together the insight accordingly.
 
+![Dashboard](_images/dashboard.png)

@@ -17,3 +17,4 @@ To enable the standard payment option of PayPal, you need to enter the following
 - **Show to Customer**: If enabled, your customer will see this payment method in the Client Portal so they can use it to pay invoices.
 - **Debug**: Enable/Disable activity log for access to callback data.
 
+![PayPal Standard](_images/paypal-standard.png)

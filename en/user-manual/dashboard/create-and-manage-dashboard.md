@@ -5,3 +5,5 @@ Akaunting allows users to create multiple dashboards for a company or certain us
 
 Name your Dashboard and select the users you want to give access to the new Dashboard.
 You can see the list of your dashboards and check whom in your organization has access to which dashboards on the "Manage Dashboards" option.
+
+![Creating a new dashboard](_images/adding-new-dashboard.gif)

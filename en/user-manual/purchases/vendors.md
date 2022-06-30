@@ -10,6 +10,7 @@ On the vendor's page, you see a summary of bills grouped into Overdue, Open, and
 At the top right of the page, you can find the New Vendor, [Payroll](https://akaunting.com/apps/payroll?utm_source=suggestion&utm_medium=app&utm_campaign=payroll), and More options.
 You can add vendors by selecting the New Vendor button or clicking on the More option to import a list of vendors using XLS or XLSX sheet format.
 
+![Vendors](_images/vendors.gif)
 
 When creating a new vendor, the following fields are displayed:
 
@@ -23,6 +24,8 @@ When creating a new vendor, the following fields are displayed:
 - **Currency**: Default currency to be used for the vendor.
 - **Address finder**: Here, you get a droplist of all customer addresses previously added.
 - **Address**: Vendor's address.
+
+![Creating a new vendor](_images/vendors-add-new.gif)
 
 Also, when creating a new vendor, there's a [Custom Fields](https://akaunting.com/apps/custom-fields?utm_source=suggestion&utm_medium=app&utm_campaign=custom_fields) button at the top page, which helps you add custom fields to vendor data.
 

@@ -2,9 +2,13 @@ Reports
 =========
 
 Reports are available from the sidebar and gives a detailed view of your business’ financial health. 
-On this page, you can view all report summaries and be able to edit and delete them. Also, graphics on reports make it easier to understand and analyze your business's financial situation. 
+On this page, you can view all report summaries and be able to edit and delete them. Also, graphics on reports make it easier to understand and analyze your business's financial situation.
 
-You can pin the most used report(s) to the top of the page for quick access. 
+![Reports](_images/reports.gif)
+
+You can pin the most used report(s) to the top of the page for quick access.
+
+![Pinning a report](_images/add-pin.gif)
 
 If you have transactions in foreign currency, don’t worry. Reports are automatically adjusted according to the selected currency rate. But don’t forget to update currency rates from the Settings page. 
 
@@ -23,6 +27,8 @@ When creating a new report, the following details are displayed:
 - **Type**: There are 5 default types and it can be extended by apps.
 - **Description**: Description to be used in the report list.
 
+![Creating a new report](_images/reports-add-new.gif)
+
 The following fields depend on the selected report type:
 
 - **Group By**: You can group reports by category, customer, etc. Each report type has its own groups.
@@ -38,6 +44,8 @@ The following action helps you to create a new report
 - Save and create the new report
 
 To automatically schedule reports on a weekly, monthly and custom frequency, use the [Schedule Reports](https://akaunting.com/apps/schedule-reports?utm_source=suggestion&utm_medium=app&utm_campaign=schedule_reports) feature.
+
+![Reports details](_images/reports-view-report.gif)
 
 **What is the Expense Summary Report?**
 

@@ -9,3 +9,4 @@ You can choose the widget size by selecting the Width, while Sort lets you decid
 
 Now you know how to personalize your dashboards, let's deep dive into the default widgets on your Dashboard.
 
+![Add a new widget](_images/adding-new-widget.gif)

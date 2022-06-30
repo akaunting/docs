@@ -23,3 +23,5 @@ Column Personalization
 - **Price Name**: The title content used for the price can be personalized.
 - **Quantity Name**: The title content used for quantity can be personalized. 
 - **Logo**: The company logo to be used in invoices.
+
+![Invoice settings](_images/invoice-settings.gif)

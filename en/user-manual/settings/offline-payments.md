@@ -11,3 +11,5 @@ On the left section, you can create new payment methods as follows:
 - **Code**: Payment method code.
 - **Order**: The sorting order of the payment method. 
 - **Show to the customer**: You can enable this if you want this payment method to be available as an option to your customers. 
+
+![Offline payments](_images/offline-payments.png)

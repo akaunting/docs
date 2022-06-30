@@ -7,4 +7,4 @@ For example, an app can connect your online store built with WooCommerce so that
 
 To access the App Store from your Akaunting software installation and install the apps you've purchased, you need to get your API Key and enter it when asked.
 
-![Akaunting App Store](_images/apps-overview.gif)
+![App Store](_images/apps-overview.gif)

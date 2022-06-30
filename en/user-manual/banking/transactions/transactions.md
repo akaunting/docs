@@ -8,3 +8,5 @@ All transactions are added under income and expense types.
 You can connect transactions with invoices or bills. So documents you have recorded match your income and expense records.
 
 At the top right of the Transactions page, you can add New Income or New Expense by clicking on the buttons. To import a list of transactions, you should download the sample template.
+
+![Transactions](_images/transactions.gif)

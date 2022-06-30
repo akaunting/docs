@@ -8,3 +8,5 @@ The localization settings page is located under the Settings menu. You can chang
 - **Date Format**: The default date format for your app.
 - **Data Separator**: The separator of date format.
 - **Percent Position**: Select the position of the percentage sign.
+
+![Localization settings](_images/localization-settings.gif)
