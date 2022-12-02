@@ -1,4 +1,4 @@
-Create New Organization
+Create New Company
 =========
 
 On the top left, you'll see the name of your company. You can set up new companies by clicking on the name. You get a dropdown with two menu options:
@@ -6,7 +6,7 @@ On the top left, you'll see the name of your company. You can set up new compani
 - **Your company name**: Clicking on this takes you to your accounting dashboard.
 - **Manage Companies**: Clicking on this takes you to where you can set up a new company or edit an existing company.
 
-![Creating a new organization](_images/add-new-organization.gif)
+![Creating a new company](_images/pa-add-new-organization.gif)
 
 Personalize the Interface
 =========
@@ -17,4 +17,4 @@ You can personalize the Akaunting user interface to your company's needs. The Wh
 
 Now you've personalized your Akaunting, let's learn about the Akaunting dashboard. 
 
-![Personalize interface](_images/personalize-akaunting-interface.png)
+![Personalize interface](_images/pa-personalize-akaunting-interface.png)

@@ -7,14 +7,10 @@
 * [Migrating to Akaunting](migrating-to-akaunting)
 * User Manual
 	* [Welcome](user-manual/welcome)
-	* The User Interface Framework
-		* [The User Interface Framework](user-manual/the-user-interface-framework/the-user-interface-framework)
-	* Personalize Your Profile
-		* [Personalize Your Profile](user-manual/personalize-your-profile/personalize-your-profile)
-	* Personalize Akaunting
-		* [Personalize Akaunting](user-manual/personalize-akaunting/personalize-akaunting)
+	* [The User Interface Framework](user-manual/the-user-interface-framework/the-user-interface-framework)
+	* [Profile and Users](user-manual/profile-and-users)
+	* [Personalize Akaunting](user-manual/personalize-akaunting/personalize-akaunting)
 	* Settings
-		* [Overview](user-manual/settings/overview)
 		* [Company](user-manual/settings/company)
 		* [Localization](user-manual/settings/localization)
 		* [Invoice](user-manual/settings/invoice)
@@ -31,15 +27,14 @@
 	* Dashboard
 		* [Create and Manage Dashboard](user-manual/dashboard/create-and-manage-dashboard)
 		* [Add Widgets](user-manual/dashboard/add-widgets)
-			* Default Dashboard
-				* [Receivables](user-manual/dashboard/default-dashboard/receivables)
-				* [Payables](user-manual/dashboard/default-dashboard/payables)
-				* [Cash Flow](user-manual/dashboard/default-dashboard/cash-flow)
-				* [Profit and Loss](user-manual/dashboard/default-dashboard/profit-and-loss)
-				* [Expenses by Category](user-manual/dashboard/default-dashboard/expenses-by-category)
-				* [Account Balance](user-manual/dashboard/default-dashboard/account-balance)
-	* Items
-		* [Items](user-manual/items/items)
+		* Default Dashboard
+			* [Receivables](user-manual/dashboard/default-dashboard/receivables)
+			* [Payables](user-manual/dashboard/default-dashboard/payables)
+			* [Cash Flow](user-manual/dashboard/default-dashboard/cash-flow)
+			* [Profit and Loss](user-manual/dashboard/default-dashboard/profit-and-loss)
+			* [Expenses by Category](user-manual/dashboard/default-dashboard/expenses-by-category)
+			* [Account Balance](user-manual/dashboard/default-dashboard/account-balance)
+	* [Items](user-manual/items)
 	* Sales
 		* Invoices
 			* [Invoices](user-manual/sales/invoices/invoices)
@@ -61,8 +56,7 @@
 		* [Other](user-manual/banking/other)
 		* [Reconciliation](user-manual/banking/reconciliation)
 		* [Transfers](user-manual/banking/transfers)
-	* Reports
-		* [Reports](user-manual/reports/reports)
+	* [Reports](user-manual/reports)
 	* App Store
 		* [Overview](user-manual/app-store/overview)
 		* [Apps](user-manual/app-store/apps)

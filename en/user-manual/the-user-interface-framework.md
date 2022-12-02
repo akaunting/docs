@@ -36,14 +36,14 @@ Quick Add
 
 The plus (+) icon allows you to easily create invoices, clients, and transactions without navigating to their main pages.
 
-![Quick add](_images/add-new.gif)
+![Quick add](_images/ui-add-new.gif)
 
 Settings
 =========
 
 The Sidebar section also contains the settings menu where you can personalize Akaunting and all your subscribed apps. Settings allow you to customize how your Akaunting behaves - make changes to your company, choose a default currency, define your financial year, and configure installed apps. Take a step further for more personalization in settings.
 
-![Settings](_images/settings.gif)
+![Settings](_images/ui-settings.gif)
 
 Help
 =========
@@ -55,4 +55,4 @@ Favorites
 
 This part of the Sidebar is an easter bunny. When you favorite a page, it appears on the Sidebar for quick access from any page. You can add a page to favorites by clicking on the star icon at the top, beside the title. All favorite pages appear on the Sidebar.
 
-![Favorites](_images/favorites.gif)
+![Favorites](_images/ui-favorites.gif)

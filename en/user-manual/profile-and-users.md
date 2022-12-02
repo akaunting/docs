@@ -29,4 +29,4 @@ When you send an invitation link to a user, They can be able to access your comp
 
 If your Akaunting is not self-hosted, you must upgrade to the [Premium Cloud Plan](https://akaunting.com/plans). 
 
-![Users](_images/users.gif)
+![Users](_images/pp-users.gif)
