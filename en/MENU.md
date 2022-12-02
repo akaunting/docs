@@ -5,29 +5,15 @@
 * [Client Portal](client-portal)
 * [Employee Portal](employee-portal)
 * Migrating to Akaunting
-    * [Overview](migrating-to-akaunting/overview)
-    * [Import/Export](migrating-to-akaunting/import-export)
+	* [Migrating to Akaunting](migrating-to-akaunting)
 * User Manual
-	* Welcome
-		* [Overview](user-manual/welcome/overview)
-		* [Setting Up Your Company](user-manual/welcome/setting-up-your-company)
+	* [Welcome](user-manual/welcome)
 	* The User Interface Framework
-		* [Overview](user-manual/the-user-interface-framework/overview)
-		* [Sidebar](user-manual/the-user-interface-framework/sidebar)
-		* [Profile](user-manual/the-user-interface-framework/profile)
-		* [Notifications](user-manual/the-user-interface-framework/notifications)
-		* [Search](user-manual/the-user-interface-framework/search)
-		* [Quick add](user-manual/the-user-interface-framework/quick-add)
-		* [Settings](user-manual/the-user-interface-framework/settings)
-		* [Help](user-manual/the-user-interface-framework/help)
-		* [Favorites](user-manual/the-user-interface-framework/favorites)
+		* [The User Interface Framework](user-manual/the-user-interface-framework/the-user-interface-framework)
 	* Personalize Your Profile
-		* [Overview](user-manual/personalize-your-profile/overview)
-		* [Profile](user-manual/personalize-your-profile/profile)
-		* [Users](user-manual/personalize-your-profile/users)
+		* [Personalize Your Profile](user-manual/personalize-your-profile/personalize-your-profile)
 	* Personalize Akaunting
-		* [Create a new Organization](user-manual/personalize-akaunting/create-new-organization)
-		* [Personalize the Interface](user-manual/personalize-akaunting/personalize-the-interface)
+		* [Personalize Akaunting](user-manual/personalize-akaunting/personalize-akaunting)
 	* Settings
 		* [Overview](user-manual/settings/overview)
 		* [Company](user-manual/settings/company)
@@ -44,7 +30,6 @@
 		* [Offline Payments](user-manual/settings/offline-payments)
 		* [PayPal Standard](user-manual/settings/paypal-standard)
 	* Dashboard
-		* [Overview](user-manual/dashboard/overview)
 		* [Create and Manage Dashboard](user-manual/dashboard/create-and-manage-dashboard)
 		* [Add Widgets](user-manual/dashboard/add-widgets)
 			* Default Dashboard

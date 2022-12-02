@@ -1,3 +1,15 @@
+Overview
+=========
+
+The email provided while signing up to Akaunting will be the primary email address. 
+
+You can drop a profile picture on the profile page. Akaunting allows you to keep books of multiple companies on the same profile. So you can switch between your companies with one click.
+
+Profile
+=========
+
+You can view your profile by clicking the avatar icon on the top left of the Sidebar. You can change your personal information such as name, email, profile picture, and portal preferences such as companies, roles, landing page, and language.
+
 Users
 =========
 
