@@ -4,8 +4,7 @@
 * [Update](update)
 * [Client Portal](client-portal)
 * [Employee Portal](employee-portal)
-* Migrating to Akaunting
-	* [Migrating to Akaunting](migrating-to-akaunting/migrating-to-akaunting)
+* [Migrating to Akaunting](migrating-to-akaunting)
 * User Manual
 	* [Welcome](user-manual/welcome)
 	* The User Interface Framework
