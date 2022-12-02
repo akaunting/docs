@@ -8,6 +8,7 @@ Items are the goods or services that your business offers customers. Click on th
 When creating a new item, you get to select the type - Product or Service- and the category to make your reports detailed. The description field is helpful when creating an invoice or bill.
 Under the billing section, you can enter any item's sales and purchase prices. 
 The following fields are displayed for items
+
 - Name: The name of product/service.
 - Type: Service or Product.
 - Category: Selecting a category helps when analyzing the performance of items.
