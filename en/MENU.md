@@ -24,12 +24,12 @@
 	* Sales
 		* Invoices
 			* [Invoices](user-manual/sales/invoices/invoices)
-			* [Recurring Templates](user-manual/sales/invoices/recurring-invoice)
+			* [Recurring Templates](user-manual/sales/invoices/recurring-templates)
 		* [Customers](user-manual/sales/customers)
 	* Purchases
 		* Bills
 			* [Bills](user-manual/purchases/bills/bills)
-			* [Recurring Templates](user-manual/purchases/bills/recurring-bills)
+			* [Recurring Templates](user-manual/purchases/bills/recurring-templates)
 		* [Vendors](user-manual/purchases/vendors)
 	* Banking
 		* Transactions
